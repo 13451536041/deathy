@@ -9,6 +9,10 @@
 
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "艾克","name": "艾克","type": 0,"api": "https://ikcss.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "dev","name": "dev","type": 0,"api": "http://zl.devclh.top/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "ff9","name": "ff9","type": 0,"api": "https://www.ff9.top/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "ok1","name": "ok1","type": 0,"api": "http://125.62.68.228/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "盘看看", "name": "盘看看", "type": 0,"api": "http://tvcaiji.pankk.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "迪吧", "name": "迪吧", "type": 0,"api": "https://www.d8bi.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "创艺影视", "name": "创艺影视", "type": 0,"api": "https://www.30dian.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
