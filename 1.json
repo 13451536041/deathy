@@ -251,6 +251,7 @@
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"江湖官采","name":"江湖官采","type":0,"api":"http://119.29.1.173/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"DD1","name":"DD1","type":0,"api":"http://ddzy.jiangxs.vip/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天天影视","name":"天天影视","type":0,"api":"http://tttv.cf/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "艾克","name": "艾克","type": 0,"api": "https://ikcss.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "dev","name": "dev","type": 0,"api": "http://zl.devclh.top/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
