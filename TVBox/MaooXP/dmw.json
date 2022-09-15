@@ -2,7 +2,7 @@
 {
   "author":"takagen99",
   "ua": "",
-  "homeUrl": "http://www.88dmw.com",
+  "homeUrl": "www.dmd85.com",
   "cateManual": {
     "新番连载": "1", 
     "完结日漫": "3",
@@ -19,7 +19,7 @@
   "homeVodMark": "/p[@class='time']/font/text()",
   
 // Category Summary ================================================  
-  "cateUrl": "http://www.88dmw.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class--year-{year}-letter--area--lang-.html",
+  "cateUrl": "www.dmd85.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class--year-{year}-letter--area--lang-.html",
   "cateVodNode": "//div[@class='list3_cn_box']/div[@class='cn_box2']",
   "cateVodName": "/div/div/a/@title",
   "cateVodId": "/div/div/a/@href",
@@ -28,7 +28,7 @@
   "cateVodMark": "/ul[@class='list_20']/li[2]/span/font/text()",
 
 // Category Details ================================================    
-  "dtUrl": "http://www.88dmw.com/detail/{vid}.html",
+  "dtUrl": "www.dmd85.com/detail/{vid}.html",
   "dtNode": "//div[(@class='warp')]",
   "dtName": "//div[@class='info-title']/h1/text()",
   "dtImg": "//div[@class='info-box']/div[@class='o_list']/div[@class='o_big_img_bg_b']/img/@src",
@@ -51,11 +51,11 @@
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
-  "playUrl": "http://www.88dmw.com/play/{playUrl}.html",
+  "playUrl": "www.dmd85.com/play/{playUrl}.html",
   "playUa": "",
   
 // Search Results ================================================     
-  "searchUrl": "http://www.88dmw.com/index.php?m=vod-search-wd-{wd}",
+  "searchUrl": "www.dmd85.com/index.php?m=vod-search-wd-{wd}",
   "scVodNode": "//div[@class='list3_cn_box']/div[@class='cn_box2']",
   "scVodName": "/div/div/a/@title",
   "scVodId": "/div/div/a/@href",
