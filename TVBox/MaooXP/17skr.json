@@ -1,8 +1,8 @@
 {
   "ua": "",
-  "homeUrl": "https://www.17skr.com/",
+  "homeUrl": "https://www.92cj.com/",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.17skr.com/static/js/playerconfig.js",
+  "pCfgJs": "https://www.92cj.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -35,7 +35,7 @@
   "cateVodImg": "/div[contains(@class, 'img-box')]/a/img/@data-src",
   "cateVodMark": "/div[contains(@class, 'img-box')]/a/div[contains(@class,'absolute-bottom-right')]/span/text()",
 
-  "dtUrl": "https://www.17skr.com/detail/{vid}.html",
+  "dtUrl": "https://www.92cj.com/detail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[@class='module-item-pic']/a/img/@alt",
   "dtNameR": "",
@@ -65,7 +65,7 @@
   "dtUrlName": "/span/text()",
   "playUrl": "https://www.17skr.com/play/{playUrl}.html",
 
-  "searchUrl": "https://www.17skr.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "searchUrl": "https://www.92cj.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
