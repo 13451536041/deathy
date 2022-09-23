@@ -805,8 +805,6 @@
       ]}
   ],
   "parses": [
-{"name": "Json并发","type": 2,"url": "Parallel"},
-{"name": "Json轮询","type": 2,"url": "Sequence"},
 {"name": "json1","url": "http://jxgg.work/json.php?url=","type": 1},
 {"name": "json5","url": "http://play.bichangzw.cn/jianghu/json/?url=","type": 1},
 {"name": "json3","url": "http://jx.vipmv.co/json3/?url=","type": 1},
