@@ -8,6 +8,8 @@
 
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷官采","name":"人人迷官采","type":0,"api":"https://zy.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"茄子聚合","name":"茄子聚合","type":0,"api":"http://video.96ad.cn/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":0,"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
@@ -19,7 +21,6 @@
 {"key":"首途官采","name":"首途官采","type":0,"api":"https://zy.di4m.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"臭弟弟资源","name":"臭弟弟资源","type":0,"api":"https://www.choudidi.top/zyapi.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"55511","name":"55511","type":0,"api":"https://www.555ziyuan.com:555/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"搬运工","name":"搬运工","type":0,"api":"https://cj.banyung.xyz:7799/?at=xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"千橙资源","name":"千橙资源","type":0,"api":"http://124.223.10.96:8090/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐檬官采","name":"乐檬官采","type":1,"api":"http://api.lmlemon.com/api/viode","playUrl":"","searchable":1,"quickSearch":1},
@@ -229,7 +230,6 @@
 {"key": "淘片资源","name": "淘片资源","type": 0,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "龙腾资源", "name": "龙腾资源", "type": 0,"api": "http://zycj.cygc.xyz/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "椰子资源", "name": "椰子资源", "type": 0,"api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
-{"key": "搬运工资源", "name": "搬运工资源", "type": 0,"api": "https://cj.banyung.xyz:7788/?at=xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "段友影视", "name": "段友影视", "type": 0,"api": "http://shangjihuoke.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "一点影视", "name": "一点影视", "type": 0,"api": "https://m3u8.movurl.xyz/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "无尽资源", "name": "无尽资源", "type": 0,"api": "https://wuzy9.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
