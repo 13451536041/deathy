@@ -286,7 +286,7 @@
 {"key": "无双","name": "无双","type": 0,"api": "https://wsdy.top/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "免费","name": "免费","type": 0,"api": "http://www.ruiuri.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "神马","name": "神马","type": 0,"api": "http://www.zitv.cc/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
-{"key": "8090","name": "8090","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "8090","name": "8090","type": 0,"api": "http://zy.yilans.net/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "阿里","name": "阿里","type": 0,"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "0DU","name": "0DU","type": 0,"api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "飘花","name": "飘花","type": 0,"api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
