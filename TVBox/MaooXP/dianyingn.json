@@ -18,7 +18,7 @@
   "homeVodIdR": "/voddetail/(\\S+).html",
   "homeVodImg": "/a[1][contains(@class, 'fed-list-pics')]/@data-original",
   "homeVodMark": "",
-  "cateUrl": "https://www.dianyingn.com/vodtype/{cateId}--------{catePg}---.html",
+  "cateUrl": "https://www.dianyingn.com/vodshow/{cateId}--------{catePg}---.html",
   "cateVodNode": "//ul[contains(@class, 'fed-list-info fed-part-rows')]/li",
   "cateVodName": "/a[2][contains(@class, 'fed-list-title')]/text()",
   "cateVodId": "/a[2][contains(@class, 'fed-list-title')]/@href",
