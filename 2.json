@@ -9,6 +9,7 @@
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"荣幸官采","name":"荣幸官采","type":0,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷官采","name":"人人迷官采","type":0,"api":"https://zy.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"茄子聚合","name":"茄子聚合","type":0,"api":"http://video.96ad.cn/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
@@ -369,6 +370,7 @@
 {"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","playUrl":"https://player.sewozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","playUrl":"https://player.yinwoplayer.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {"key":"国色资源","name":"国色资源","type":1,"api":"https://api.guosezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"奥斯卡资源","name":"奥斯卡资源","type":0,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金莲资源","name":"金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"热巴资源","name":"热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
