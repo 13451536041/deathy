@@ -253,6 +253,8 @@
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"追剧达人","name":"追剧达人","type":0,"api":"http://zjdr.tv/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ikun资源","name":"ikun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TIMI资源","name":"TIMI资源","type":0,"api":"http://api.timizy.top:1005/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工9","name":"搬运工9","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷官采","name":"人人迷官采","type":0,"api":"https://zy.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
