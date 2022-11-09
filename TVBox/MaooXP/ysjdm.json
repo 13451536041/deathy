@@ -14,6 +14,7 @@
   "cateId": "/@href",
   "cateIdR": "/index.php/vod/show/(\\S+)/id/20.html",
   "cateManual": {
+    "全部": "",
     "日漫": "area/日本",
     "国漫": "area/中國"
   },
