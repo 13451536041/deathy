@@ -13,6 +13,10 @@
             "name": "线路3"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/6.json",
+            "name": "线路4"
+        },
+        {
             "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "聚合"
         }
