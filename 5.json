@@ -1,0 +1,8 @@
+storeHouse": [{
+    "sourceName": "1号仓库",
+    "sourceUrl": "https://xxx/tv/1号仓库"
+  }, {
+    "sourceName": "2号仓库",
+    "sourceUrl": "https://xxx/tv/2号仓库"
+  }]
+}
