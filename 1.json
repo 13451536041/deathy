@@ -1036,8 +1036,6 @@
 {"key": "追剧1", "name": "追剧1", "type": 0,"api": "http://www.zhuiju8.vip/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1, "categories": []},
 {"key": "追剧1b", "name": "追剧1b", "type": 0,"api": "http://www.zhuiju8.vip/api.php/provide/vod/at/xml","playUrl": "https://vip.mmkv.cn/tv.php?url=","searchable":1,"quickSearch":1},
 {"key": "348电影网","name": "348电影网","type": 0,"api": "https://348z.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
-{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"多多资源2","name":"多多资源2","type":1,"api":"https://api.ddzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "348电影网b","name": "348电影网b","type": 0,"api": "https://348z.com/api.php/provide/vod/at/xml","playUrl": "https://vip.mmkv.cn/tv.php?url=","searchable":1,"quickSearch":1},
 {"key": "天龙影院","name": "天龙影院","type": 0,"api": "http://www.tl86dy.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "樱花资源","name": "樱花资源","type": 0,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
