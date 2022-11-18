@@ -869,6 +869,8 @@
 
 {"key":"阳光资源","name":"阳光资源","type":1,"api":"https://xxzy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key":"多多资源","name":"多多资源","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"多多资源2","name":"多多资源2","type":0,"api":"https://api.ddzy.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"追剧达人","name":"追剧达人","type":0,"api":"http://zjdr.tv/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ikun资源","name":"ikun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
