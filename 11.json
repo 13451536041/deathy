@@ -894,6 +894,7 @@
 {"key":"搬运工9","name":"搬运工9","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷官采","name":"人人迷官采","type":1,"api":"https://zy.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"荣幸官采","name":"荣幸官采","type":1,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"茄子聚合","name":"茄子聚合","type":1,"api":"http://video.96ad.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
