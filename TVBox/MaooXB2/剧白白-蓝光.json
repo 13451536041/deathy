@@ -22,7 +22,7 @@
   "fubiaotiqian": "t text-right\"><b>",
   "fubiaotihou": "</b>",
 
-  "sousuoqian": "/vodsearch/-------------.html?wd=",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/vod/",
   "ssmoshi": "0",
