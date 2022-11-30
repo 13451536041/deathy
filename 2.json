@@ -9,6 +9,7 @@
 
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"优质资源库","name":"优质资源库","type":0,"api":"http://hdzyk.com/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源1","name":"多多资源1","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源2","name":"多多资源2","type":0,"api":"https://api.ddzy.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
