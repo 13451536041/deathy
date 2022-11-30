@@ -253,6 +253,7 @@
 {"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/麻衣高清.json"},
 
 
+{"key":"优质资源库","name":"优质资源库","type":1,"api":"http://hdzyk.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "天空2影视","name": "天空2影视","type":1,"api": "https://www.tkys.tv/api.php/provide/vod","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"多多资源1","name":"多多资源1","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源2","name":"多多资源2","type":1,"api":"https://api.ddzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
