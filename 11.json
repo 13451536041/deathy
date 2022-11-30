@@ -87,6 +87,7 @@
 {"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
 //js J版
 {"key": "drpy_js_剧荒","name": " 🎑剧荒[DRPY]待完善","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/剧荒.js"},
+{"key": "drpy_js_宅腐影视","name": " 🎑宅腐影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/宅腐影视.js"},
 {"key": "drpy_js_零柒影视","name": " 🎑零柒影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/零柒影视.js"},
 {"key": "drpy_js_碟调影视","name": " 🎑碟调影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/碟调影视.js"},
 {"key": "drpy_js_小宝影院","name": " 🎑小宝影院 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/小宝影院.js"},
@@ -300,6 +301,7 @@
     //XBPQ
 	  
 {"key":"csp_XBPQ极品影视","name":" 🍂极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/XBPQ/极品影视.json"},
+{"key":"csp_XBPQ宅腐TV","name":" 🍂宅腐TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/XBPQ/宅腐TV.json"},
 {"key":"csp_XBPQ追剧兔","name":" 🍂追剧兔〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/XBPQ/追剧兔.json"},    
 {"key":"csp_XBPQ剧白白","name":" 🍂剧白白〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/XBPQ/剧白白.json"}, 
 {"key":"csp_xBPQ_酷客影视","name":" 🍂酷客影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/XBPQ/酷客影视.json"},
