@@ -267,7 +267,8 @@
 {"key": "drpy_js_539影院","name": " 🎑539影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/539影院.js"},  
 {"key": "drpy_js_我爱跟剧","name": " 🎑我爱跟剧[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/我爱跟剧.js"},  
 	  
-	  
+
+{"key": "py_mdoutv","name": " 🐦麦兜影视","type": 3,"api": "py_mdoutv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_mdoutv.py"},
 {"key": "py_douban","name": " 🐦豆瓣影视","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_douban.py"},
 {"key": "py_if101","name": " 🐦If101","type": 3,"api": "py_if101","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_if101.py"},
 {"key": "py_alist","name": " 🐦Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_alist.py"},
