@@ -23,7 +23,7 @@
 {"key":"csp_GitCafe1","name":"🐼小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou1","name":"🐼喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nbys1","name":"🐼泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Lgyy1","name":"🐼蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Lgyy1","name":"🐼蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Jar/XBiu.jar"},
 {"key":"csp_Zxzj1","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv1","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_JuHuang1","name":"🐼剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
