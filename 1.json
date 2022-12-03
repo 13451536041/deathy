@@ -1578,7 +1578,7 @@
 {"key":"AliPS9","name":"盘搜3","type":3,"api":"csp_AliPS3","searchable":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
 {"key":"FindZY9","name":"找资源3","type":3,"api":"csp_Zhaozy3","searchable":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
 {"key":"csp_Yisou9","name":"易搜3","type":3,"api":"csp_Yisou3","searchable":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
-{"key":"push_agent9","name":"推送3","type":3,"api":"csp_PushAgent3","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
+{"key":"push_agent9","name":"推送3","type":3,"api":"csp_PushAgent3","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
 
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/歌曲MV.json"},
     //
