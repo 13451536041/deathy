@@ -51,7 +51,7 @@
     "dtUrlNameR": "",
     "playUrl": "http://www.lgyy.cc/vodplay/{playUrl}.html",
     "playUa": "",
-    "searchUrl": "https://www.lgyy.vip/vodsearch/{wd}----------{pg}---.html",
+    "searchUrl": "https://www.lgyy.vip/vodsearch/{wd}----------{fypage}---.html",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
