@@ -17,6 +17,10 @@
             "name": "18#"
         },
         {
+            "url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+            "name":"张弘线路"
+        },
+        {
             "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "聚合"
         }
