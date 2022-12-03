@@ -2,9 +2,9 @@
 {
 //"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
-//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/deathy.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/deathy.jar",
 //"spider":"https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
-"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG",
+//"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG",
 
 "sites":[
 
