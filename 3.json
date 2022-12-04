@@ -252,7 +252,7 @@
 {"key":"csp_biubiu_dunkfun","name":"🥒dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/dunkfun.json"},
 {"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/麻衣高清.json"},
 
-
+{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"优质资源库","name":"优质资源库","type":0,"api":"http://hdzyk.com/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源1","name":"多多资源1","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
