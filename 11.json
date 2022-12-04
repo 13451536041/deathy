@@ -1768,6 +1768,7 @@
 {"key":"csp_biubiu_豆角网","name":"💦豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/豆角网.json"},
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
+{"key":"量子采集","name":" 🍁量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "天空2影视","name": "天空2影视","type":1,"api": "https://www.tkys.tv/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"优质资源库","name":"优质资源库","type":1,"api":"http://hdzyk.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":1,"api":"https://acgcn.ml/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
