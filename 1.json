@@ -735,16 +735,13 @@
 
 {"key":"csp_xBPQ_看戏影视9","name":"看戏影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/看戏影视.json"},
 
-{"key":"csp_xBPQ_鸭奈飞影视9","name":"鸭奈飞影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/鸭奈飞影视.json"},
+{"key":"csp_xBPQ_鸭奈飞影视9","name":"鸭奈飞影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/鸭奈飞影视.json"},
 
-{"key":"csp_xBPQ_创意影视9","name":"创意影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/创意影视.json"},
+{"key":"csp_xBPQ_创意影视9","name":"创意影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/创意影视.json"},
 
 {"key":"csp_xBPQ_诺讯影视9","name":"诺讯影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/诺讯影视.json"},
 
-{"key":"csp_xBPQ_北川影视9","name":"北川影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/北川影视.json"},
+{"key":"csp_xBPQ_北川影视9","name":"北川影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/北川影视.json"},
 
 {"key":"csp_xBPQ_兰花影院9","name":"兰花影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/兰花影院.json"},
 
@@ -758,8 +755,7 @@
 
 {"key":"csp_xBPQ_255TV影视9","name":"255TV影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/255TV影视.json"},
 
-{"key":"csp_xBPQ_素白白9","name":"素白白3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/素白白.json"},
+{"key":"csp_xBPQ_素白白9","name":"素白白3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/素白白.json"},
 
 {"key":"csp_xBPQ_188影视9","name":"188影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/188影视.json"},
 
@@ -904,15 +900,6 @@
 
 {"key":"csp_xBPQ_听书网9","name":"听书网️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/听书网.json"},
 
-
-
-
-{"key":"天堂资源〔官源〕9","name":"天堂资源〔官源〕3","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
-{"key":"多多资源9","name":"多多资源〔官源〕3","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","伦理","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},
-{"key":"诺讯资源〔官源〕9","name":"诺讯资源〔官源〕3","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
-{"key":"忆梦9","name":"忆梦〔官源〕3","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","电影(B站)","电视剧(B站)","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","动漫画","动画","番剧(B站)","国创(B站)","综艺","记录片(B站)","纪录片/微电影"]},
-{"key":"木子看剧〔官源〕9","name":"木子看剧〔官源〕3","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","哔哩哔哩","直播"]},
-{"key":"M3U8资源9","name":"M3U8资源〔官源〕3","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","记录片","动画片","综艺","动漫","番剧（B站专用）","国创（B站专用）","电影（B站专用）","电视剧（B站专用）"]},
 
 
 
@@ -1415,36 +1402,31 @@
 "key":"drpy_js_猫了个咪",
 "name":"猫了个咪[DRPY18]",
 "type":3,
-"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js",
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/猫了个咪.js"
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/猫了个咪.js"
 },
 {
 "key":"drpy_js_吸瓜",
 "name":"吸瓜[DRPY18]",
 "type":3,
-"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js",
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/吸瓜.js"
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/吸瓜.js"
 },
 {
 "key":"drpy_js_黄瓜TV",
 "name":"黄瓜TV[DRPY18]",
 "type":3,
-"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js",
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/黄瓜TV.js"
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/黄瓜TV.js"
 },
 {
 "key":"drpy_js_banan",
 "name":"banan[DRPY18]",
 "type":3,
-"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js",
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/banan.js"
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/banan.js"
 },
 {
 "key":"drpy_js_18av",
 "name":"18av[DRPY18]",
 "type":3,
-"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js",
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/18av.js"
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/18av.js"
 },
 
 
@@ -1478,16 +1460,14 @@
 
 {"key":"csp_xBPQ_banan9","name":"banan3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/banan.json"},
 
-{"key":"csp_xBPQ_西瓜影视9","name":"西瓜影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/西瓜影视.json"},
+{"key":"csp_xBPQ_西瓜影视9","name":"西瓜影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/西瓜影视.json"},
 
 {"key":"csp_xBPQ-爱看影院9","name":"爱看影院️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/爱看影院.json"},
 
 {"key":"csp_xBPQ-四虎影院9","name":"四虎影院️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/四虎影院.json"},
 
 
-{"key":"csp_xBPQ_GAOAA9","name":"GAOAA3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/GAOAA.json"},
+{"key":"csp_xBPQ_GAOAA9","name":"GAOAA3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/GAOAA.json"},
 
 {"key":"csp_xBPQ_麻豆映画9","name":"麻豆映画3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/麻豆映画.json"},
 
