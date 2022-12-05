@@ -674,6 +674,7 @@
     //
 {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchale": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/哔哩.json"},
 
+{"key":"csp_Xinsj9","name":"新视觉〔SP〕3","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"csp_Kunyu779","name":"七七〔SP〕3","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"csp_Lib9","name":"LIBVIO〔SP〕3","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"csp_AppTT9","name":"图图影视〔SP〕3","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
