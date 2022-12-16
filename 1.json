@@ -635,7 +635,7 @@
 {"key": "剧荒TV（SP）","name": "🐞剧荒影视(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小宝影院","name": "🐞小宝影院", "type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_酷云七七","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_酷云七七","name":"🐞酷云七七6","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "神马影院","name": "🐴神马（SP）","type": 3,"api": "csp_Smdyy","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY","name":"🐞3EDY(EXO/外网)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
@@ -736,7 +736,7 @@
 
 {"key":"Tbook9","name":"听书网〔SP〕3","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 {"key":"csp_bendi9","name":"本地文件(打开存储权限)3","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
-{"key":"csp_Alist9","name":"AList(SP)3","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist.json","jar":""https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_Alist9","name":"AList(SP)3","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 {"key":"csp_Alist19","name":"网盘合集(SP)3","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist1.json"},
  {"key":"bdys9","name":"哔嘀(磁力测试)3","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/bdys.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
