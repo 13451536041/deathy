@@ -86,6 +86,7 @@
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
 //js J版
+{"key": "drpy_js_农民影视","name": " 🎑农民影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/农民影视.js"},
 {"key": "drpy_js_AB影院","name": " 🎑AB影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/AB影院.js"},
 {"key": "drpy_js_IMAX影视","name": " 🎑IMAX影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/IMAX影视.js"},
 {"key": "drpy_js_Auete","name": " 🎑Auete[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/Auete.js"},
