@@ -86,6 +86,8 @@
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
 //js J版
+{"key": "drpy_js_爱看剧影视","name": " 🎑爱看剧影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/爱看剧影视.js"},
+{"key": "drpy_js_饭团影视","name": " 🎑饭团影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/饭团影视.js"},
 {"key": "drpy_js_农民影视","name": " 🎑农民影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/农民影视.js"},
 {"key": "drpy_js_AB影院","name": " 🎑AB影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/AB影院.js"},
 {"key": "drpy_js_IMAX影视","name": " 🎑IMAX影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/IMAX影视.js"},
@@ -748,6 +750,14 @@
 
 {"key":"T4_douban9","name":"影视推荐(T4)3","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"push_agent8","name":"推送2","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_量子影视9","name":"量子影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/量子影视.json"},
+
+{"key":"csp_xBPQ_电视直播9","name":"电视直播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/电视直播.json"},
+
+{"key":"csp_xBPQ_布蕾影院9","name":"布蕾影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/布蕾影院.json"},
+
+{"key":"csp_xBPQ_333影视9","name":"333影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/333影视.json"},
 
 {"key":"csp_xBPQ_浮生半日9","name":"浮生半日3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/浮生半日.json"},
 
