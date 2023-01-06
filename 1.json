@@ -766,6 +766,12 @@
 {"key":"T4_douban9","name":"影视推荐(T4)3","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"push_agent9","name":"推送2","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
+{"key":"csp_xBPQ_零零七影视9","name":"零零七影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/零零七影视.json"},
+
+{"key":"csp_xBPQ_子子影视9","name":"子子影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/子子影视.json"},
+
+{"key":"csp_xBPQ_喵喵电影9","name":"喵喵电影3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/喵喵电影.json"},
+
 {"key":"csp_xBPQ_98影院9","name":"98影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/98影院.json"},
 
 {"key":"csp_xBPQ_1天空影视","name":"天空影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/天空影视.json"},
@@ -1325,6 +1331,12 @@
 },
 
 {"key":"drpy_js_豆瓣9","name":"豆瓣[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/drpy.js"},
+{"key":"drpy_js_新安影院9","name":"新安影院[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/新安影院.js"},
+{"key":"drpy_js_奇米动漫9","name":"奇米动漫[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/奇米动漫.js"},
+{"key":"drpy_js_妮可动漫9","name":"妮可动漫[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/妮可动漫.js"},
+{"key":"drpy_js_怡萱动漫9","name":"怡萱动漫[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/怡萱动漫.js"},
+{"key":"drpy_js_时光影视9","name":"时光影视[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/时光影视.js"},
+{"key":"drpy_js_新思古影视9","name":"新思古影视[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/新思古影视.js"},
 {"key":"drpy_js_360影视9","name":"360[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽9","name":"爱奇艺[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷9","name":"优酷[js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/优酷.js"},
