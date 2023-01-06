@@ -86,6 +86,7 @@
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
 //js J版
+{"key": "drpy_js_朴樱影视","name": " 🎑朴樱影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/朴樱影视.js"},
 {"key": "drpy_js_万博剧院","name": " 🎑万博剧院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/万博剧院.js"},
 {"key": "drpy_js_西瓜影视2","name": " 🎑西瓜影视2[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/西瓜影视2.js"},
 {"key": "drpy_js_小狗影视","name": " 🎑小狗影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Js/小狗影视.js"},
@@ -1812,6 +1813,9 @@
 {"key":"csp_biubiu_豆角网","name":"💦豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/豆角网.json"},
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
+{"key":"天猫资源","name":"天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"零一资源","name":"零一资源","type":1,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子采集","name":" 🍁量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "天空2影视","name": "天空2影视","type":1,"api": "https://www.tkys.tv/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"优质资源库","name":"优质资源库","type":1,"api":"http://hdzyk.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
@@ -2039,8 +2043,8 @@
 {"key": "BT","name": "BT","type":1,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "HY","name": "HY","type":1,"api": "http://wmcj8.com/inc/sapi.php","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "J8","name": "J8","type":1,"api": "http://m.7777688.com/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
-{"key": "思古","name": "思古","type":1,"api": "https://www.siguyy.net/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
-{"key": "思古b","name": "思古b","type":1,"api": "https://www.siguyy.net/api.php/provide/vod/","playUrl": "https://vip.mmkv.cn/tv.php?url=","searchable":1,"quickSearch":1},
+{"key": "思古","name": "思古","type":1,"api": "https://www.siguyy.com/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "思古b","name": "思古b","type":1,"api": "https://www.siguyy.com/api.php/provide/vod/","playUrl": "https://vip.mmkv.cn/tv.php?url=","searchable":1,"quickSearch":1},
 {"key": "片库","name": "片库","type":1,"api": "https://pianku.wang/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "淘片资源","name": "淘片资源","type":1,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "龙腾资源", "name": "龙腾资源", "type":1,"api": "http://zycj.cygc.xyz/api.php/provide/vod/","playUrl": "","searchable":1,"quickSearch":1},
@@ -2164,6 +2168,9 @@
 
 
 #18+
+{"key":"武大郎资源","name":"武大郎资源","type":1,"api":"https://m3u8.apiwdlzyw.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"黄瓜资源","name":"黄瓜资源","type":1,"api":"https://www.zy018.com/api.php/provide/vod/l","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"AV资源","name":"AV资源","type":1,"api":"http://api.avkk8zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
 {"key":"155资源","name":"155资源","type":1,"api":"https://155api.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
