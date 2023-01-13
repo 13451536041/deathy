@@ -5,7 +5,9 @@
 
 "sites":[
 
-
+{"key":"天猫资源","name":"天猫资源","type":0,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"零一资源","name":"零一资源","type":0,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"JSON官采","name":"JSON官采","type":0,"api":"https://cms.json.vin/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
