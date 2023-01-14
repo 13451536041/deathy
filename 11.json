@@ -709,7 +709,7 @@
 {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchale": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/哔哩.json"},
 
 {"key":"T4_douban9","name":"影视推荐(T4)3","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
+ 
 {"key":"csp_Kunyu779","name":"七七〔SP〕3","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_Lib9","name":"LIBVIO〔SP〕3","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
@@ -818,6 +818,8 @@
 //{"key":"csp_AList9","name":"AList(SP)3","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 {"key":"csp_Alist19","name":"网盘合集(SP)3","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist1.json"},
 
+
+{"key":"csp_xBPQ_苹果电影网9","name":"苹果电影网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/苹果电影网.json"},
 
 {"key":"csp_xBPQ_低端影视9","name":"低端影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/低端影视.json"},
 
