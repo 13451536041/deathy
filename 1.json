@@ -1601,10 +1601,11 @@
 {"key":"csp_biubiu_豆角网","name":"💦豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/豆角网.json"},
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
+{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天猫资源","name":"天猫资源","type":0,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"零一资源","name":"零一资源","type":0,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"JSON官采","name":"JSON官采","type":0,"api":"https://cms.json.vin/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"M3U8TV","name":"M3U8TV","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"优质资源库","name":"优质资源库","type":0,"api":"http://hdzyk.com/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"阳光资源","name":"阳光资源","type":0,"api":"https://xxzy.org/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
