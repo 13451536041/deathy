@@ -1278,6 +1278,23 @@
 
 {"key":"csp_xBPQ_实时直播9","name":"实时直播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/实时直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
+{"key":"csp_xBPQ_新香蕉中文字幕9","name":"新香蕉中文字幕3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉中文字幕.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉久久热9","name":"新香蕉久久热3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉久久热.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉废柴网9","name":"新香蕉废柴网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉废柴网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉国产传媒9","name":"新香蕉国产传媒3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉国产传媒.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉超清资源9","name":"新香蕉超清资源3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉超清资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉麻豆女优9","name":"新香蕉麻豆女优3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉麻豆女优.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉实时直播9","name":"新香蕉实时直播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉实时直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_新香蕉AV解说9","name":"新香蕉AV解说3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉AV解说.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+
+
 {"key":"csp_xBPQ_黄瓜TV9","name":"黄瓜TV️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/黄瓜TV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_banan9","name":"banan3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/banan.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
@@ -1360,6 +1377,7 @@
 {"key":"csp_Zhaozy9","name":"找资源3","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 {"key":"csp_Push9","name":"推送3","type":3,"api":"csp_Push","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+],
 
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/歌曲MV.json"},
     //
