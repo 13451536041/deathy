@@ -1368,15 +1368,15 @@
 {"key":"酷伦理9","name":"酷伦理-伦理3","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"博天堂9","name":"博天堂-伦理3","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_PanSou9","name":"盘搜3","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_PanSou9","name":"盘搜3","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_YiSo9","name":"易搜3","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_YiSo9","name":"易搜3","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_UpYun9","name":"Up云搜3","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_UpYun9","name":"Up云搜3","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_Zhaozy9","name":"找资源3","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Zhaozy9","name":"找资源3","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_Push9","name":"推送3","type":3,"api":"csp_Push","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"push_agent9","name":"推送|云盘|磁力3","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/歌曲MV.json"},
     //
