@@ -1589,6 +1589,9 @@
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"68资源","name":"68资源","type":0,"api":"https://caiji.68zyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"可可资源","name":"可可资源","type":0,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"乐博资源","name":"乐博资源","type":0,"api":"https://lebcj.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"明帝","name":"明帝","type":0,"api":"http://cj.md214.cn/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"188资源","name":"188资源","type":0,"api":"https://www.188zy.org/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"考拉TV2","name":"考拉TV2","type":0,"api":"https://ikaola.tv/api.php/provide/vod/at/xml","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
