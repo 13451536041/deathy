@@ -787,6 +787,14 @@
 {"key":"csp_bendi9","name":"本地文件(打开存储权限)3","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"csp_Alist19","name":"网盘合集(SP)3","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist1.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
+{"key": "csp_xBPQ_539影视9","name": "539影视3","type": 3,"api": "csp_XBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/539影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
+
+{"key": "csp_xBPQ_豆巴影视9","name": "豆巴影视3","type": 3,"api": "csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/豆巴影视.json"},
+
+{"key": "csp_xBPQ_蓝光影院9","name": "蓝光影院3","type": 3,"api": "csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/蓝光影院.json"},
+
+{"key":"csp_xBPQ_咕噜咕噜9","name":"咕噜咕噜3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/咕噜咕噜.json"},
+
 {"key":"csp_xBPQ_野马影视9","name":"野马影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/野马影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_B站影视9","name":"B站影视3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/B站影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
