@@ -719,6 +719,13 @@
 
 
 {"key":"T4_douban9","name":"影视推荐(T4)3","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_539影视9","name":"539影视3","type": 3,"api":"csp_XBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/539影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
+
+{"key":"csp_xBPQ_豆巴影视9","name":"豆巴影视3","type": 3,"api":"csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/豆巴影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_看看屋9","name":"看看屋3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/看看屋.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
+
 {"key":"csp_IQIYI9","name":"爱奇艺〔SP〕3","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_Mgtv9","name":"芒果TV〔SP〕3","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
@@ -728,115 +735,117 @@
 {"key":"csp_SP3609","name":"360〔SP〕3","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_Tkys9","name":"天空影视〔SP〕3","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Kunyu779","name":"七七〔SP〕3","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Lib9","name":"LIBVIO〔SP〕3","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_Czsapp9","name":"厂长资源〔SP〕3","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"Czsapp9","name":"厂长资源〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key":"csp_Cokemv9","name":"Cokemv〔SP〕3","type":"3","api":"csp_Cokemv","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"Cokemv9","name":"Cokemv〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
+{"key":"csp_Czsapp9","name":"厂长资源〔SP〕3","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_LiteApple9","name":"小苹果〔SP〕3","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_SP23459","name":"2345影视〔SP〕3","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_BuLei9","name":"布雷影院〔SP〕3","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Nmys9","name":"农民影视〔SP〕3","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/nongminyingshi.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"Dy5559","name":"555电影〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key":"csp_Kuaikan9","name":"快看〔SP〕3","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Xinsj9","name":"新视觉〔SP〕3","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Lezhu9","name":"乐猪影视〔SP〕","api":"csp_Lezhu3","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Bttoo9","name":"两个BT〔SP〕3","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Auete9","name":"Auete〔SP〕3","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Bdys9","name":"哔嘀影视〔SP〕3","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Lib9","name":"LIBVIO〔SP〕3","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_IQIYI9","name":"爱奇艺〔SP〕3","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_Mgtv9","name":"芒果TV〔SP〕3","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_QQ9","name":"腾讯视频〔SP〕3","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_SP3609","name":"360〔SP〕3","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_Tkys9","name":"天空影视〔SP〕3","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Ysgc9","name":"影视工厂〔SP〕3","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Dy10109","name":"双十〔SP〕3","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"Tian9","name":"天天〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key":"csp_Smdyy9","name":"神马影院〔SP〕3","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_IKan9","name":"爱看〔ts〕3","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
+
+{"key":"csp_IKan9","name":"爱看〔ts〕3","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key":"一起看9","name":"一起看〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
-{"key":"AppTT9","name":"图图影视3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
+
 {"key":"Pang9","name":"胖虎〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
 {"key":"Ddys9","name":"低端影视〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 
-{"key":"Hei9","name":"石榴〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
-
-{"key":"Lgyy9","name":"蓝光影院〔ts〕3","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
-
-{"key":"csp_Paper9","name":"小纸条〔SP〕3","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Paper9","name":"小纸条〔SP〕3","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 
 
 {"key":"csp_Bili9","name":"哔哩套餐〔SP〕3","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/哔哩哔哩.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_Yj12119","name":"️直播合集〔SP〕3","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"csp_Anime19","name":"动漫〔SP〕3","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Dm849","name":"动漫巴士〔SP〕3","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"Ying9","name":"樱花〔SP〕3","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"Ysj9","name":"异世界〔SP〕3","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_Tangrenjie9","name":"唐人街 墙外〔SP〕3","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_NiNi9","name":"泥视频 墙外〔SP〕3","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_Tangrenjie9","name":"唐人街 翻墙〔SP〕3","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_NiNi9","name":"泥视频 翻墙〔SP〕3","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"Tbook9","name":"听书网〔SP〕3","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/cs.jar"},
 {"key":"csp_bendi9","name":"本地文件(打开存储权限)3","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_Alist19","name":"网盘合集(SP)3","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Alist1.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key": "csp_xBPQ_539影视9","name": "539影视3","type": 3,"api": "csp_XBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/539影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
-
-{"key": "csp_xBPQ_豆巴影视9","name": "豆巴影视3","type": 3,"api": "csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/豆巴影视.json"},
-
-{"key": "csp_xBPQ_蓝光影院9","name": "蓝光影院3","type": 3,"api": "csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/蓝光影院.json"},
-
-{"key":"csp_xBPQ_咕噜咕噜9","name":"咕噜咕噜3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/咕噜咕噜.json"},
-
-{"key":"csp_xBPQ_野马影视9","name":"野马影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/野马影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_B站影视9","name":"B站影视3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/B站影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
-
-{"key":"csp_xBPQ_91影院9","name":"91影院3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/91影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_爱影视9","name":"爱影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/爱影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_二次萌影视9","name":"二次萌影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/二次萌影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
+{"key":"csp_xBPQ_小猫咪9","name":"小猫咪3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/小猫咪.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_骚火影院9","name":"骚火影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/骚火影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_91影院9","name":"91影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/91影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_4K追番9","name":"4K追番3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/4K追番.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_HOHOTV9","name":"HOHOTV3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/HOHOTV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_乐鱼影视9","name":"乐鱼影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/乐鱼影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
+{"key":"csp_xBPQ_大豆网9","name":"大豆网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/大豆网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_兄弟影视9","name":"兄弟影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/兄弟影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
+{"key":"csp_xBPQ_七小时影院9","name":"七小时影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/七小时影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_七小时影院9","name":"七小时影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/七小时影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_光棍影院9","name":"光棍影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/光棍影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_小猫咪9","name":"小猫咪3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/小猫咪.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_大豆网9","name":"大豆网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/大豆网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_浮生半日9","name":"浮生半日3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/浮生半日.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_B站影视9","name":"B站影视3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/B站影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/zy.jar"},
 
 {"key":"csp_xBPQ_苹果电影网9","name":"苹果电影网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/苹果电影网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_低端影视9","name":"低端影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/低端影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_零零七影视9","name":"零零七影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/零零七影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_两个BT9","name":"两个BT3","type": 3,"api":"csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/两个BT.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_厂长资源9","name":"厂长资源3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/厂长资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_乐鱼影视9","name":"乐鱼影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/乐鱼影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_兄弟影视9","name":"兄弟影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/兄弟影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_光棍影院9","name":"光棍影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/光棍影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_98影院9","name":"98影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/98影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"新视觉影院9","name":"新视觉影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新视觉影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_浮生半日9","name":"浮生半日3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/浮生半日.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_333影视9","name":"333影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/333影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/XBPQ_0111.jar"},
+{"key":"新视觉影院9","name":"新视觉影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新视觉影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_布蕾影院9","name":"布蕾影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/布蕾影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_野马影视9","name":"野马影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/野马影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_二次萌影视9","name":"二次萌影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/二次萌影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_xBPQ_咕噜咕噜9","name":"咕噜咕噜3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/咕噜咕噜.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 
 {"key":"csp_xBPQ_天空影视9","name":"天空影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/天空影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -850,21 +859,16 @@
 
 {"key":"乐猪影视9","name":"乐猪影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/乐猪影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_厂长资源9","name":"厂长资源3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/厂长资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
 {"key":"csp_xBPQ_口袋影院9","name":"口袋影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/口袋影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_花猫TV9","name":"花猫TV3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/花猫TV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_创意影视9","name":"创意影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/创意影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_诺讯影视9","name":"诺讯影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/诺讯影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_创意影视9","name":"创意影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/创意影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_映迷影院9","name":"映迷影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/映迷影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_剧迷线上看9","name":"剧迷线上看3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/剧迷线上看.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_溪谷影视9","name":"溪谷影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/溪谷影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_188影视9","name":"188影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/188影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -872,15 +876,14 @@
 
 {"key":"csp_xBPQ_核桃影院9","name":"核桃影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/核桃影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_UM影院9","name":"UM影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/UM影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_UM影院9","name":"UM影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/UM影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_人人影视9","name":"人人影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/人人影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_神马影院9","name":"神马影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/神马影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_Nike影视网9","name":"Nike影视网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Nike影视网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_xBPQ_HOHOTV9","name":"HOHOTV3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/HOHOTV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_HDIK9","name":"HDIK3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/HDIK.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -890,11 +893,14 @@
 
 {"key":"csp_xBPQ_影视工厂9","name":"影视工厂3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"click":"ddys.tv;.vjs-big-play-button","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/影视工厂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_不休影院9","name":"不休影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/不休影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_不休影院9","name":"不休影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/不休影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_52看剧9","name":"52看剧3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/52看剧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_52看剧9","name":"52看剧3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/52看剧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_F7好看剧9","name":"F7好看剧3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/F7好看剧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_F7好看剧9","name":"F7好看剧3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/F7好看剧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_干饭影视9","name":"干饭影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/干饭影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -906,13 +912,12 @@
 
 {"key":"csp_xBPQ_片吧影院9","name":"片吧影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/片吧影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_大米星球9","name":"大米星球3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/大米星球.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
 {"key":"csp_xBPQ_歪片星球9","name":"歪片星球️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/歪片星球.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_达达龟9","name":"达达龟3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/达达龟.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_TVB云播9","name":"TVB云播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/TVB云播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_TVB云播9","name":"TVB云播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/TVB云播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_APP影院9","name":"APP影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/APP影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -932,7 +937,8 @@
 
 {"key":"csp_xBPQ_黑狐影院9","name":"黑狐影院3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/黑狐影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_番茄影视9","name":"番茄影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/番茄影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_番茄影视9","name":"番茄影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/番茄影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_看了么9","name":"看了么3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/看了么.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -972,13 +978,15 @@
 
 {"key":"csp_xBPQ_量子影视9","name":"量子影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/量子影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_托乌视频9","name":"托乌视频3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/托乌视频.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
 {"key":"csp_xBPQ_追剧啦9","name":"追剧啦3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/追剧啦.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"霹雳影视9","name":"霹雳影视3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/霹雳影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_xBPQ_555电影9","name":"555电影3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/555电影.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_xBPQ_蓝光影院9","name":"蓝光影院3","type": 3,"api":"csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/蓝光影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"野荷塘影院9","name":"野荷塘影院3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/野荷塘影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"回响影视9","name":"回响影视3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/回响影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_听书网9","name":"听书网️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/听书网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -990,7 +998,6 @@
 
 
 {"key":"csp_appysv2_天空影视9","name":"天空影视〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkznp.com/xgapp.php/v2/"},
-
 
 {"key":"csp_appysv2_佳佳影视9","name":"佳佳影视〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
 
@@ -1005,22 +1012,25 @@
 {"key":"csp_appysv2_淘剧社〔APP〕9","name":"淘剧社〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
 
 {"key":"影图9","name":"影图〔APP〕3","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_appysv2_悟空影院9","name":"悟空影院〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 
 {"key":"csp_appysv2_群鑫影视〔APP〕9","name":"群鑫影视〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
 
 {"key":"快播资源9","name":"快播资源〔APP〕3","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_appysv2_玖卿乐播9","name":"玖卿乐播〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 
 {"key":"csp_appysv2_豆芽视频9","name":"豆芽视频〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
 
 {"key":"csp_app_小鸟动漫9","name":"小鸟动漫〔APP〕3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 
-{"key":"csp_XPath_石榴电影9","name":"石榴电影(XP)3","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/石榴电影.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/Yoursmile.jar"},
 
-{"key":"csp_XPath_saohuotv9","name":"骚火影院(XP)3","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/saohuotv.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 
 {"key":"csp_XPath_yinfans9","name":"音范丝4K(XP)3","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/yinfans.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_XPath_saohuotv9","name":"骚火影院(XP)3","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/saohuotv.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_XPath_94sm9","name":"94神马(XP)3","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XP/94sm.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
@@ -1037,32 +1047,7 @@
 
 
 
-{"key":"csp_XYQBiu_斗鱼直播9","name":"斗鱼直播(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/斗鱼直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"csp_XYQBiu_虎牙直播9","name":"虎牙直播(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/虎牙直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQBiu_网易CC直播9","name":"网易CC直播(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/网易CC直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQBiu_17klive9","name":"体育直播(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/17klive.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQBiu_酷狗MV9","name":"酷狗MV(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/酷狗MV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQBiu_酷奇MV9","name":"酷奇MV(XYQ)3","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQ/酷奇MV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-
-
-{"key":"csp_XYQHiker_39影视9","name":"39影视(XYQH)3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/39影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQHiker_4K极客9","name":"4K极客(XYQH)3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/4K极客.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"野荷塘影院9","name":"野荷塘影院3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/野荷塘影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"回响影视9","name":"回响影视3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/回响影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"csp_XYQHiker_无插件直播9","name":"体育直播(XYQH)3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/无插件直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-
-{"key":"drpy_js_粤爱看9","name":"粤爱看[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/粤爱看.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_360影视9","name":"360[官源js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/360影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_奇珍异兽9","name":"爱奇艺[官源js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/奇珍异兽.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_优酷9","name":"优酷[官源js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/优酷.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
@@ -1116,7 +1101,7 @@
 {"key":"drpy_js_007影视9","name":"007影视[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/007影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_1080P9","name":"1080P[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/1080P.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_2099电影9","name":"2099电影[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/2099电影.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"drpy_js_333影视9","name":"333影视[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/333影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"drpy_js_3影视9","name":"3影视[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/3影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_69美剧9","name":"69美剧[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/69美剧.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_8号影院9","name":"8号影院[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/8号影院.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_99影院9","name":"99影院[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/99影院.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
@@ -1204,7 +1189,6 @@
 {"key":"drpy_js_追剧达人9","name":"追剧达人[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/追剧达人.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_追剧啦儿9","name":"追剧啦儿[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/追剧啦.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_子子影视9","name":"子子影视[影视js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/子子影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"Live9","name":"影视直播3","type":3,"api": "csp_Live","ext":"2000"},
 
 {"key":"drpy_js_哔哩直播9","name":" 哔哩[直播js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/哔哩直播.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_斗鱼直播9","name":" 斗鱼[直播js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/斗鱼直播.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
@@ -1244,25 +1228,15 @@
 {"key":"drpy_js_幻听网听书9","name":"幻听网听书[听书js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/幻听网听书.js","playerType":"2"},
 
 {"key":"drpy_js_短视频9","name":"短视频[聚合js]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/短视频.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-
-
-
 {"key":"drpy_js_猫了个咪9","name":"猫了个咪[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/猫了个咪.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"drpy_js_吸瓜9","name":"吸瓜[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/吸瓜.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_黄瓜TV9","name":"黄瓜TV[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/黄瓜TV.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_banan9","name":"banan[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/banan.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"drpy_js_18av9","name":"18av[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/18av.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"drpy_js_Missav9","name":"Missav[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/Missav.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"drpy_js_朱古力9","name":"朱古力[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/朱古力.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
-{"key":"drpy_js_玩偶姐姐9","name":"玩偶姐姐[DRPY18]3","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/js/玩偶姐姐.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-
 {"key":"csp_黄仓库9","name":"黄仓库〔SP〕","api":"csp_Hsck3","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/18.jar"},
 
 {"key":"csp_Eighteen9","name":"18AV〔SP〕3","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"csp_XYQHiker_18AV9","name":"18AV(XYQH)3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/XYQH/18AV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
 {"key":"csp_xBPQ_左临右射9","name":"左临右射3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/左临右射.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
@@ -1293,21 +1267,21 @@
 
 {"key":"csp_xBPQ_实时直播9","name":"实时直播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/实时直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉中文字幕99","name":"新香蕉中文字幕33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉中文字幕.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉中文字幕9","name":"新香蕉中文字幕3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉中文字幕.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉久久热99","name":"新香蕉久久热33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉久久热.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉久久热9","name":"新香蕉久久热3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉久久热.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉废柴网99","name":"新香蕉废柴网33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉废柴网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉废柴网9","name":"新香蕉废柴网3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉废柴网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉国产传媒99","name":"新香蕉国产传媒33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉国产传媒.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉国产传媒9","name":"新香蕉国产传媒3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉国产传媒.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉超清资源99","name":"新香蕉超清资源33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉超清资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉超清资源9","name":"新香蕉超清资源3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉超清资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉麻豆女优99","name":"新香蕉麻豆女优33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉麻豆女优.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉麻豆女优9","name":"新香蕉麻豆女优3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉麻豆女优.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉实时直播99","name":"新香蕉实时直播33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉实时直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉实时直播9","name":"新香蕉实时直播3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉实时直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_新香蕉AV解说99","name":"新香蕉AV解说33","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉AV解说.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉AV解说9","name":"新香蕉AV解说3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/新香蕉AV解说.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_黄瓜TV9","name":"黄瓜TV️3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/黄瓜TV.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
@@ -1329,7 +1303,8 @@
 
 {"key":"csp_xBPQ_色花堂9","name":"色花堂3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/色花堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/xBPQ_0111.jar"},
 
-{"key":"csp_xBPQ_GAOAA9","name":"GAOAA3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/GAOAA.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/XBPQ_0111.jar"},
+{"key":"csp_xBPQ_GAOAA9","name":"GAOAA3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/GAOAA.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/XBPQ_0111.jar"},
 
 {"key":"csp_xBPQ_Jable9","name":"Jable〔翻墙〕3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/Jable.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
@@ -1341,40 +1316,60 @@
 
 {"key":"csp_xBPQ_女优9","name":"女优〔翻墙〕3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/xBPQ/女优.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile2.jar"},
 
-{"key":"csp_Miss9","name":"Miss AV 墙外〔SP〕3","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"csp_Hanime9","name":"Hanime 墙外〔SP〕3","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"csp_Miss9","name":"Miss AV 翻墙〔SP〕3","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
+{"key":"csp_Hanime9","name":"Hanime 翻墙〔SP〕3","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"黄瓜TV资源9","name":"黄瓜TV资源3","type":0,"api":"https://caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"CK资源9","name":"CK资源3","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"CK资源29","name":"CK资源23","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"JAV名优9","name":"JAV名优3","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"乐播资源9","name":"乐播资源3","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"色南国资源9","name":"色南国资源3","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"酷豆资源9","name":"酷豆资源3","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"奶茶资源9","name":"奶茶资源3","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"美少女资源9","name":"美少女资源3","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"淫水机资源9","name":"淫水机资源3","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"香奶儿资源9","name":"香奶儿资源3","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"白嫖资源9","name":"白嫖资源3","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"环亚资源9","name":"环亚资源3","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"黄AV资源9","name":"黄AV资源3","type":0, "api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"色色资源9","name":"色色资源3","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"玖玖资源9","name":"玖玖资源3","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"番号资源9","name":"番号资源3","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"KK写真资源9","name":"KK写真资源3","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+
 {"key":"易看资源-伦理9","name":"易看资源-伦理3","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 {"key":"影库资源-伦理9","name":"影库资源-伦理3","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
-{"key":"酷伦理9","name":"酷伦理-伦理3","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},{"key":"博天堂9","name":"博天堂-伦理3","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"酷伦理9","name":"酷伦理-伦理3","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
+{"key":"博天堂9","name":"博天堂-伦理3","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
 
-{"key":"PanSou9","name":"盘搜3","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
+{"key":"PanSou9","name":"盘搜3","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 
-{"key":"YiSo9","name":"易搜3","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
+{"key":"YiSo9","name":"易搜3","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 
-{"key":"UpYun9","name":"Up云搜3","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
+{"key":"UpYun9","name":"Up云搜3","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 
-{"key":"Zhaozy9","name":"找资源3","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
+{"key":"Zhaozy9","name":"找资源3","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 
-{"key":"push_agent9","name":"推送|云盘|磁力3","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
-
+{"key":"push_agent9","name":"推送|云盘|磁力3","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JS/fm.jar"},
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/歌曲MV.json"},
     //
 {"key": "csp_BBB"          ,"name":"🅱️哔哩自定义","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Bili/bilirch.json"},
