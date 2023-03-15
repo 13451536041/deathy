@@ -1597,6 +1597,7 @@
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
 {"key":"68资源","name":"68资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"神马采集","name":"神马采集","type":1,"api":"http://cj.6ys6.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"可可资源","name":"可可资源","type":1,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐博资源","name":"乐博资源","type":1,"api":"https://lebcj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
