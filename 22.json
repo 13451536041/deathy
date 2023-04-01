@@ -376,6 +376,11 @@
 
 
 #18+
+{"key":"奶香香资源","name":"奶香香资源","type":1,"api":"https://naixxzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"好片资源","name":"好片资源","type":1,"api":"https://haopianapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"快AV资源","name":"快AV资源","type":1,"api":"http://kuaiavzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"武大郎资源","name":"武大郎资源","type":1,"api":"https://m3u8.apiwdlzyw.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"黄瓜资源","name":"黄瓜资源","type":1,"api":"https://www.zy018.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"XXOO资源","name":"XXOO资源","type":1,"api":"http://xoxozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
