@@ -1,27 +1,27 @@
 {
     "urls": [
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/1.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/1.json",
             "name": "综合"
         },
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/2.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/2.json",
             "name": "传统"
         },
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/1a.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/1a.json",
             "name": "aku"
         },
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/1b.json",
+            "url": "hhttps://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/1b.json",
             "name": "zhanghong"
         },
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/3.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/3.json",
             "name": "hd921"
         },
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/6.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/6.json",
             "name": "18#"
         }
 ]
