@@ -55,7 +55,7 @@
   "playUa": "",
 
   // Search Results ===================================================
-  "searchUrl": "https://ysjdm.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
+  "searchUrl": "https://www.ysjdm.net/index.php/vod/search.html?wd={wd}&submit=",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
