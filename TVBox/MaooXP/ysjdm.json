@@ -22,7 +22,7 @@
   // Home Summary =====================================================
   "homeVodNode": "//ul[contains(@class,'vodlist')]/li",
   "homeVodName": "/a/@title",
-  "homeVodId": "/@href",
+  "homeVodId": "/a/@href",
   "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
   "homeVodImg": "/a/@data-original",
   "homeVodMark": "/a/span[2]/text()",
@@ -30,8 +30,8 @@
   // Category Summary =================================================
   "cateUrl": "https://ysjdm.net/index.php/vod/show/{cateId}{type}/id/20/page/{catePg}{year}.html",
   "cateVodNode": "//ul[contains(@class,'vodlist')]/li",
-  "cateVodName": "/@title",
-  "cateVodId": "/@href",
+  "cateVodName": "/a/@title",
+  "cateVodId": "/a/@href",
   "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
   "cateVodImg": "/a/@data-original",
   "cateVodMark": "/a/span[2]/text()",
