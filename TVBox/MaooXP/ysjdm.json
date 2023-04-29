@@ -38,7 +38,7 @@
 
   // Category Details =================================================
   "dtUrl": "https://ysjdm.net/index.php/vod/detail/id/{vid}.html",
-  "dtNode": "//div[@class='detail_list_box']",
+  "dtNode": "//div[@class='vodlist_titbox']",
   "dtName": "//div[@class='content_thumb fl']/a/@title",
   "dtImg": "//div[@class='content_thumb fl']/a/@data-original",
 
