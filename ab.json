@@ -923,6 +923,7 @@
 	  
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"磁力熊","name":"️🐻磁力熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"开云资源","name":"开云资源","type":1,"api":"https://kaiyunzy4.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"速博资源","name":"速博资源","type":0,"api":"https://subocaiji.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"极速资源","name":"极速资源","type":0,"api":"https://jszy.tv/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
@@ -1534,6 +1535,7 @@
 //{"name": "json3","url": "http://jx.vipmv.co/json3/?url=","type": 1},
 {"name":"万能解析","type":0,"url":"https://vip.legendwhb.cn/m3u8.php?url="},
 {"name":"db1","url":"http://vip.26db.cn/c/?url="},
+{"name":"3412","url":"https://player.3412.net.cn/?url="},
 {"name":"365","type":0,"url": "https://chaxun.truechat365.com/?url="},
 {"name":"菜尼丝","type":0,"url":"https://jx.cainisi.cf/?v="},
 {"name":"db2","url":"http://vip.26db.cn/f/?url="},

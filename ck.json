@@ -21,6 +21,10 @@
             "name": "hd921"
         },
         {
+            "url": "https://raw.nuaa.cf/52670576/tvbox/master/ysc.json",
+            "name": "syc"
+        },
+        {
             "url": "https://raw.nuaa.cf/13451536041/deathy/master/18.json",
             "name": "18#"
         }
