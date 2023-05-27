@@ -142,7 +142,7 @@
 {"key":"哔哩直播8","name":"🅱️哔哩直播8","type":3,"api":"https://raw.nuaa.cf/13451536041/deathy1/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy1/master/js/blzb.js","jar":"https://raw.nuaa.cf/13451536041/deathy1/master/Jar/deathy4.jar"},
 {"key":"csp_XYQBiu_斗鱼8","name":"🐬斗鱼直播8","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy1/master/sub/douyu.json","jar":"https://raw.nuaa.cf/13451536041/deathy1/master/Jar/deathy4.jar"},
 {"key":"csp_xpath_kuqimv8","name":"🎤酷奇MV8","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy1/master/sub/kuqimv.json","jar":"https://raw.nuaa.cf/13451536041/deathy1/master/Jar/deathy4.jar"},
-{"key":"csp_xpath_A338","name":"🎸MTV8","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy1/master/sub/mtv.json","jar":"https://raw.nuaa.cf/13451536041/deathy1/master/Jar/deathy4.jar"}
+{"key":"csp_xpath_A338","name":"🎸MTV8","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy1/master/sub/mtv.json","jar":"https://raw.nuaa.cf/13451536041/deathy1/master/Jar/deathy4.jar"},
 
 ## XPath系列
 {"key":"csp_xpath_wnvod2","name":"万能影视(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.nuaa.cf/13451536041/deathy/master/TVBox/MaooXP/wnvod.json"},
