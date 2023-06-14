@@ -1,23 +1,23 @@
 {
     "urls": [
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/a.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/a.json",
             "name": "综合"
         },
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/2.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/2.json",
             "name": "传统"
         },
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/aa.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/aa.json",
             "name": "aku"
         },
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/ab.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/ab.json",
             "name": "zhanghong"
         },
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/3.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/3.json",
             "name": "hd921"
         },
         {
@@ -25,7 +25,7 @@
             "name": "syc"
         },
         {
-            "url": "https://raw.nuaa.cf/13451536041/deathy/master/18.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/18.json",
             "name": "18#"
         }
 ]
