@@ -5,6 +5,11 @@
 
 "sites":[
 
+{"key": "极速7", "name": "极速7", "type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "火狐资源5", "name": "火狐资源5", "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "速看资源7", "name": "速看资源7", "type": 1,"api": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "奇虎资源5", "name": "奇虎资源5", "type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "最大资源6", "name": "最大资源6", "type": 1,"api": "https://api.zuidapi.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "6U资源", "name": "6U资源", "type": 1,"api": "http://www.6uzy.cc/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"磁力熊","name":"️🐻磁力熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"M3U8TV","name":"M3U8TV","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
