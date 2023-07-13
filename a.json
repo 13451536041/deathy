@@ -42,7 +42,6 @@
 {"key":"csp_biubiu_斗鱼1","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXB2/斗鱼.json"},
 {"key":"csp_xpath_kuqimv1","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/kuqimv.json"},
 
-	{"key":"异世界6","name":"📮异世界","type":3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Jar/deathy4.jar"},
 
         {"key": "豆瓣4", "name": "🔍豆瓣荐片4", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/douban.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Jar/deathy4.jar"},
         {"key": "爱奇异4", "name": "🚛爱奇艺(官)4", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js", "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/aiqiyi.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Jar/deathy4.jar"},
