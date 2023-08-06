@@ -6,6 +6,8 @@
 "sites":[
 
 {"key":"豌豆资源","name":" 🍁豌豆资源","type":0,"api":"https://ks.wandouzy.cc/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"快云6","name":" 快云资源","type":0,"api":"https://www.kuaiyunzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"49资源","name":" 49资源","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"魔都资源","name":" 🍁魔都资源","type":0,"api":"https://www.moduzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"享看资源","name":" 🍁享看资源","type":0,"api":"https://xkanzy10.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "极速7", "name": "极速7", "type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
@@ -34,11 +36,11 @@
 {"key":"天猫资源","name":"天猫资源","type":0,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"零一资源","name":"零一资源","type":0,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"JSON官采","name":"JSON官采","type":0,"api":"https://cms.json.vin/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "天空2影视","name": "天空2影视","type": 0,"api": "https://www.tkys.tv/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":0,"api":"https://acgcn.ml/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"优质资源库","name":"优质资源库","type":0,"api":"http://hdzyk.com/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"非凡资源","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"非凡资源","name":"非凡资源","type":0,"api":"http://ffzy1.tv/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源1","name":"多多资源1","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源2","name":"多多资源2","type":0,"api":"https://api.ddzy.cc/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"追剧达人","name":"追剧达人","type":0,"api":"http://zjdr.tv/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
@@ -387,6 +389,8 @@
 
 #18+
 {"key": "523资源", "name": "523资源", "type": 1,"api": "https://caiji.523zyw.com/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
+{"key":"红袖资源","name":" 红袖资源","type":0,"api":"https://hongxiuzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"9色资源","name":" 9色资源","type":0,"api":"https://9szy.net/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "155资源", "name": "155资源", "type": 1,"api": "https://155api.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "黄瓜资源", "name": "黄瓜资源", "type": 1,"api": "https://www.zy018.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key": "AV资源", "name": "AV资源", "type": 1,"api": "http://api.avkk8zy.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},

@@ -33,6 +33,8 @@
 
 
 #18+
+{"key":"红袖资源","name":" 红袖资源","type":0,"api":"https://hongxiuzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"9色资源","name":" 9色资源","type":0,"api":"https://9szy.net/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"武大郎资源","name":"武大郎资源","type":1,"api":"https://m3u8.apiwdlzyw.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"黄瓜资源","name":"黄瓜资源","type":0,"api":"https://www.zy018.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
