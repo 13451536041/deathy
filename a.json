@@ -5115,6 +5115,9 @@
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"极光资源","name":" 🍁极光资源","type":0,"api":"https://jiguang.la/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"华为吧","name":" 🍁华为吧","type":0,"api":"https://hw8.live/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"熊掌资源","name":" 🍁熊掌资源","type":0,"api":"https://xzcjz.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"四个圈影视","name":" 🍁四个圈影视","type":0,"api":"https://pg.fenwe078.cf/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"秒看资源","name":" 🍁秒看资源","type":0,"api":"秒http://mkzy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快云6","name":" 快云资源","type":0,"api":"https://www.kuaiyunzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
