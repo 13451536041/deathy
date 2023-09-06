@@ -1078,6 +1078,7 @@
 	
  
 
+
         {
             "key": "csp_SP3604",
             "name": "🍳┃360官源┃4",
@@ -1122,19 +1123,27 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/菜狗.js"
         },
         {
-            "key": "秒看资源4",
-            "name": "秒看┃切片4",
-            "type": 1,
-            "playerType": 1,
-            "api": "https://mkzy.vip/api.php/provide/vod",
+            "key": "探探4",
+            "name": "🏵饭佬影探4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": "1",
+            "api": "csp_YTVIP",
             "searchable": 1,
             "quickSearch": 1,
-            "categories": [
-                "电视剧",
-                "电影",
-                "动漫",
-                "综艺"
-            ]
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/探探.jar"
+        },
+        {
+            "key": "大鹏4",
+            "name": "🦅大鹏┃4K4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 1,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
         },
         {
             "key": "彩虹4",
@@ -1145,7 +1154,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://www.qtw.asia/api.php/v1.vod"
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
         },
         {
             "key": "超前4",
@@ -1176,6 +1185,16 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/夜猫优米.js"
         },
         {
+            "key": "ymzx4k4",
+            "name": "👑夜猫尊享4K👑4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/夜猫尊享.js"
+        },
+        {
             "key": "yc4",
             "name": "👑夜猫影巢4K👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
@@ -1184,7 +1203,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/yc.jar"
         },
         {
@@ -1268,31 +1287,12 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key": "忍者视频4",
-            "name": "👑夜猫忍者👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/忍者视频.jar",
-            "ext": "http://www.rzys.cc"
-        },
-        {
             "key": "AppYs_xylg24",
             "name": "👑夜猫自营蓝光👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
             "playerType": 2,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/自营蓝光2.js"
-        },
-        {
-            "key": "ymzy4",
-            "name": "👑夜猫自营高清👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/自营.js"
         },
         {
             "key": "xymzftfx4",
@@ -1303,52 +1303,12 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/非同凡响.js"
         },
         {
-            "key": "极客4",
-            "name": "👑极客|蓝光👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.jiketv.com/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/year/{year}.html;;akx",
-                "分类": "动漫$4#电影$1#剧集$2#综艺$3"
-            }
-        },
-        {
-            "key": "9yyq4",
-            "name": "👑九禹云播👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-            }
-        },
-        {
             "key": "dr_jqr4",
             "name": "👑夜猫聚影👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
             "playerType": 2,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ikan.js"
-        },
-        {
-            "key": "蘑菇24",
-            "name": "🍄️蘑菇┃APP4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://11111111.moguys.xyz/api.php/app/"
-        },
-        {
-            "key": "大豆高清4",
-            "name": "🥓大豆┃app4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.dadou.cm/api.php/app/"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ikanbot1.js"
         },
         {
             "key": "dr_czyzy4",
@@ -1390,6 +1350,126 @@
                 "分类": "电影$1#电视剧$31#动漫$4#综艺$3",
                 "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
             }
+        },
+        {
+            "key": "drpy_js_荐片4",
+            "name": "👑 | 荐片蓝光4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/荐片.js",
+            "playerType": "1"
+        },
+        {
+            "key": "csp_slgq4",
+            "name": "🏵️石榴蓝光4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/石榴高清.json"
+        },
+        {
+            "key": "dr_ymi4",
+            "name": "⭐┃映迷蓝光┃4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/映迷影院.js"
+        },
+        {
+            "key": "drpy_qy4",
+            "name": "🐵奇优影院4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/奇优影院.js"
+        },
+        {
+            "key": "dr_xc4",
+            "name": "⭐┃星辰蓝光┃4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/星辰.js"
+        },
+        {
+            "key": "csp_aidi_api4",
+            "name": "🐩爱迪高清APP4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_ggun4",
+            "name": "🌵光棍高清4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/光棍影视.json"
+        },
+        {
+            "key": "csp_miai4",
+            "name": "🌾米爱蓝光4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/米爱影视.json"
+        },
+        {
+            "key": "csp_bt4",
+            "name": "😢鼻涕影视4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/鼻涕影视.json"
+        },
+        {
+            "key": "XBPQsj4",
+            "name": "🔥┃新视觉┃4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/6080.json"
+        },
+        {
+            "key": "csp_XBPQ_nmys4",
+            "name": "🚲┃农民┃4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/农民影视.json"
+        },
+        {
+            "key": "csp_XBPQ_thys4",
+            "name": "⛴️┃土豪┃影视4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/土豪影视.json"
         },
         {
             "key": "csp_Mp4Mov4",
@@ -1543,139 +1623,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/音范丝.json"
         },
         {
-            "key": "ity4",
-            "name": "爱TV丨4k4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "csp_XBPQ",
-            "playerType": 2,
-            "ext": {
-                "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-                "副标题": "<span class=\"pic-text text-right\"><b>&&</b></span>",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6",
-                "分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
-            }
-        },
-        {
-            "key": "drpy_js_荐片4",
-            "name": "👑 | 荐片蓝光4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/荐片.js",
-            "playerType": "1"
-        },
-        {
-            "key": "csp_slgq4",
-            "name": "🏵️石榴蓝光4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/石榴高清.json"
-        },
-        {
-            "key": "dr_ymi4",
-            "name": "⭐┃映迷蓝光┃4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/映迷影院.js"
-        },
-        {
-            "key": "drpy_qy4",
-            "name": "🐵奇优影院4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/奇优影院.js"
-        },
-        {
-            "key": "dr_xc4",
-            "name": "⭐┃星辰蓝光┃4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/星辰.js"
-        },
-        {
-            "key": "csp_aidi_api4",
-            "name": "🐩爱迪高清APP4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-        },
-        {
-            "key": "csp_ggun4",
-            "name": "🌵光棍高清4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/光棍影视.json"
-        },
-        {
-            "key": "csp_miai4",
-            "name": "🌾米爱蓝光4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/米爱影视.json"
-        },
-        {
-            "key": "csp_bt4",
-            "name": "😢鼻涕影视4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/鼻涕影视.json"
-        },
-        {
-            "key": "XBPQsj4",
-            "name": "🔥┃新视觉┃4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/6080.json"
-        },
-        {
-            "key": "csp_XBPQ_nmys4",
-            "name": "🚲┃农民┃4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/农民影视.json"
-        },
-        {
-            "key": "csp_XBPQ_thys4",
-            "name": "⛴️┃土豪┃影视4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/土豪影视.json"
-        },
-        {
             "key": "py_央视片库4",
             "name": "🌏cctv片库4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
@@ -1767,7 +1714,7 @@
             "name": "🐝量子资源4",
             "type": 1,
             "playerType": 2,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1804,7 +1751,7 @@
             "name": "🦅非凡4",
             "type": "1",
             "playerType": 2,
-            "api": "http://ffzy5.tv/api.php/provide/vod/?ac=list",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": "1",
             "playUrl": "",
             "changeable": "0",
@@ -2118,7 +2065,9 @@
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
+
 		
+
 
         {
             "key": "360影视6",
@@ -2129,40 +2078,40 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/360影视.json"
+            "ext": "./json/360影视.json"
         },
         {
             "key": "豆瓣6",
             "name": "豆瓣┃推荐6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/drpy.js"
+            "ext": "./js/drpy.js"
         },
         {
             "key": "荐片6",
             "name": "荐片┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/荐片.js"
+            "ext": "./js/荐片.js"
         },
         {
             "key": "磁力熊6",
             "name": "🧲磁力熊6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/磁力熊[磁].js"
+            "ext": "./js/磁力熊[磁].js"
         },
         {
             "key": "6v电影6",
@@ -2184,20 +2133,20 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/电影港磁力.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/电影港.jar"
+            "ext": "./json/电影港磁力.json",
+            "jar": "./jars/电影港.jar"
         },
         {
             "key": "低端影视6",
             "name": "低端┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ddys.js"
+            "ext": "./js/ddys.js"
         },
         {
             "key": "YQK_spider6",
@@ -2214,25 +2163,25 @@
             "key": "鲲娱七七6",
             "name": "七七┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/酷云77.js"
+            "ext": "./js/酷云77.js"
         },
         {
             "key": "两个BT6",
             "name": "两个BT┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/两个BT.js"
+            "ext": "./js/两个BT.js"
         },
         {
             "key": "csp_FanYY6",
@@ -2259,13 +2208,13 @@
             "key": "快看影视6",
             "name": "快看1┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/快看.js"
+            "ext": "./js/快看.js"
         },
         {
             "key": "Kuaikan6",
@@ -2281,12 +2230,12 @@
             "key": "LIBVIO影视6",
             "name": "LIBVIO┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/LIBVIO.js"
+            "ext": "./js/LIBVIO.js"
         },
         {
             "key": "乐猪TV6",
@@ -2297,29 +2246,29 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/乐猪TV.json"
+            "ext": "./json/乐猪TV.json"
         },
         {
             "key": "饭团影视6",
             "name": "饭团┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/饭团影视.js"
+            "ext": "./js/饭团影视.js"
         },
         {
             "key": "Auete影视6",
             "name": "Auete┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/Auete.js"
+            "ext": "./js/Auete.js"
         },
         {
             "key": "Dm846",
@@ -2365,12 +2314,12 @@
             "key": "COKEMV6",
             "name": "COKE┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/cokemv.js"
+            "ext": "./js/cokemv.js"
         },
         {
             "key": "csp_DuoX6",
@@ -2396,12 +2345,12 @@
             "key": "厂长资源6",
             "name": "厂长┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/厂长资源.js"
+            "ext": "./js/厂长资源.js"
         },
         {
             "key": "探探6",
@@ -2417,45 +2366,45 @@
             "key": "新视觉影院6",
             "name": "新视觉┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/新视觉影视.js"
+            "ext": "./js/新视觉影视.js"
         },
         {
             "key": "农民影视6",
             "name": "农民┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/农民影视.js"
+            "ext": "./js/农民影视.js"
         },
         {
             "key": "双十电影6",
             "name": "双十┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/双十电影.js"
+            "ext": "./js/双十电影.js"
         },
         {
             "key": "VOFLIX6",
             "name": "VOFLIX┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/voflix.js"
+            "ext": "./js/voflix.js"
         },
         {
             "key": "在线之家6",
@@ -2472,496 +2421,496 @@
             "key": "555电影6",
             "name": "555┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/555电影[V2].js"
+            "ext": "./js/555电影[V2].js"
         },
         {
             "key": "零零七影视6",
             "name": "零零七┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/007影视.js"
+            "ext": "./js/007影视.js"
         },
         {
             "key": "139影视6",
             "name": "139┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/139影视.js"
+            "ext": "./js/139影视.js"
         },
         {
             "key": "348电影网6",
             "name": "348┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/348电影网.js"
+            "ext": "./js/348电影网.js"
         },
         {
             "key": "4K电影网6",
             "name": "4K┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/4K电影网.js"
+            "ext": "./js/4K电影网.js"
         },
         {
             "key": "539影视6",
             "name": "539┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/539影视.js"
+            "ext": "./js/539影视.js"
         },
         {
             "key": "58动漫网6",
             "name": "58┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/58动漫.js"
+            "ext": "./js/58动漫.js"
         },
         {
             "key": "69美剧6",
             "name": "69┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/69美剧[V2].js"
+            "ext": "./js/69美剧[V2].js"
         },
         {
             "key": "7喜影院6",
             "name": "7喜┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/7喜影院.js"
+            "ext": "./js/7喜影院.js"
         },
         {
             "key": "8号影院6",
             "name": "8号┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/8号影院.js"
+            "ext": "./js/8号影院.js"
         },
         {
             "key": "91影院6",
             "name": "91┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/91free.js"
+            "ext": "./js/91free.js"
         },
         {
             "key": "9u电影6",
             "name": "9u┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/9U电影.js"
+            "ext": "./js/9U电影.js"
         },
         {
             "key": "AnFuns动漫6",
             "name": "AnFuns┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/AnFuns.js"
+            "ext": "./js/AnFuns.js"
         },
         {
             "key": "B站影视6",
             "name": "B站┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/B站影视.js"
+            "ext": "./js/B站影视.js"
         },
         {
             "key": "F7好看剧6",
             "name": "F7┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/F7好看剧[V2].js"
+            "ext": "./js/F7好看剧[V2].js"
         },
         {
             "key": "HG影视6",
             "name": "HG┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/HG影院[V2].js"
+            "ext": "./js/HG影院[V2].js"
         },
         {
             "key": "Icio影视6",
             "name": "Icio┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/Icio影视.js"
+            "ext": "./js/Icio影视.js"
         },
         {
             "key": "OK影院6",
             "name": "OK┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/KOK影院.js"
+            "ext": "./js/KOK影院.js"
         },
         {
             "key": "NT动漫6",
             "name": "NT┃动漫6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NT动漫.js"
+            "ext": "./js/NT动漫.js"
         },
         {
             "key": "纽约影院6",
             "name": "纽约┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NY影院.js"
+            "ext": "./js/NY影院.js"
         },
         {
             "key": "NyaFun6",
             "name": "NyaFun┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NyaFun.js"
+            "ext": "./js/NyaFun.js"
         },
         {
             "key": "TVB云播6",
             "name": "TVB┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/TVB云播.js"
+            "ext": "./js/TVB云播.js"
         },
         {
             "key": "UM影院6",
             "name": "UM┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/UM电影.js"
+            "ext": "./js/UM电影.js"
         },
         {
             "key": "iKanBot6",
             "name": "iKan┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ikanbot2.js"
+            "ext": "./js/ikanbot2.js"
         },
         {
             "key": "101影院6",
             "name": "101┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/l0l.js"
+            "ext": "./js/l0l.js"
         },
         {
             "key": "七年影视6",
             "name": "七年┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/七年影视.js"
+            "ext": "./js/七年影视.js"
         },
         {
             "key": "万博剧院6",
             "name": "万博┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/万博剧院.js"
+            "ext": "./js/万博剧院.js"
         },
         {
             "key": "万能影院6",
             "name": "万能┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/万能影视.js"
+            "ext": "./js/万能影视.js"
         },
         {
             "key": "乐鱼影视6",
             "name": "乐鱼┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/乐鱼影视.js"
+            "ext": "./js/乐鱼影视.js"
         },
         {
             "key": "人人影视6",
             "name": "人人┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/人人影视.js"
+            "ext": "./js/人人影视.js"
         },
         {
             "key": "兄弟影视6",
             "name": "兄弟┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/兄弟影视.js"
+            "ext": "./js/兄弟影视.js"
         },
         {
             "key": "光棍影院6",
             "name": "光棍┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/光棍影院.js"
+            "ext": "./js/光棍影院.js"
         },
         {
             "key": "免费看影视6",
             "name": "免费看┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/免费看.js"
+            "ext": "./js/免费看.js"
         },
         {
             "key": "八蛋影视6",
             "name": "八蛋┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/八蛋影视.js"
+            "ext": "./js/八蛋影视.js"
         },
         {
             "key": "六度TV6",
             "name": "六度┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/六度TV.js"
+            "ext": "./js/六度TV.js"
         },
         {
             "key": "兰花影院6",
             "name": "兰花┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/兰花影院.js"
+            "ext": "./js/兰花影院.js"
         },
         {
             "key": "凌云影视6",
             "name": "凌云┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/凌云影视.js"
+            "ext": "./js/凌云影视.js"
         },
         {
             "key": "创艺影视6",
             "name": "创艺┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/创艺影视.js"
+            "ext": "./js/创艺影视.js"
         },
         {
             "key": "Gimy剧迷ai6",
             "name": "剧迷ai┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/剧迷.js"
+            "ext": "./js/剧迷.js"
         },
         {
             "key": "Gimy剧迷su6",
             "name": "剧迷su┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/剧迷su.js"
+            "ext": "./js/剧迷su.js"
         },
         {
             "key": "动漫岛6",
             "name": "岛┃动漫6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/动漫岛.js"
+            "ext": "./js/动漫岛.js"
         },
         {
             "key": "北川影视6",
             "name": "北川┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/北川影视.js"
+            "ext": "./js/北川影视.js"
         },
         {
             "key": "去看吧6",
             "name": "去看吧┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/去看吧.js"
+            "ext": "./js/去看吧.js"
         },
         {
             "key": "咕噜[V2]6",
             "name": "咕噜┃影视6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/咕噜[V2].js"
+            "ext": "./js/咕噜[V2].js"
         },
         {
             "key": "嘶哩嘶哩6",
             "name": "嘶哩┃动漫6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/嘶哩嘶哩.js"
+            "ext": "./js/嘶哩嘶哩.js"
         },
         {
             "key": "野荷塘6",
@@ -2972,7 +2921,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/野荷塘.json"
+            "ext": "./json/野荷塘.json"
         },
         {
             "key": "素白白影视6",
@@ -2983,7 +2932,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/素白白影视.json"
+            "ext": "./json/素白白影视.json"
         },
         {
             "key": "莫扎兔6",
@@ -2994,7 +2943,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/莫扎兔.json"
+            "ext": "./json/莫扎兔.json"
         },
         {
             "key": "干饭影视6",
@@ -3005,7 +2954,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/干饭影视.json"
+            "ext": "./json/干饭影视.json"
         },
         {
             "key": "看一看影视6",
@@ -3016,7 +2965,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/看一看影视.json"
+            "ext": "./json/看一看影视.json"
         },
         {
             "key": "奇优影院6",
@@ -3027,7 +2976,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/奇优影院.json"
+            "ext": "./json/奇优影院.json"
         },
         {
             "key": "Vidhub6",
@@ -3038,7 +2987,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/Vidhub.json"
+            "ext": "./json/Vidhub.json"
         },
         {
             "key": "冷曦影视6",
@@ -3049,7 +2998,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/冷曦影视.json"
+            "ext": "./json/冷曦影视.json"
         },
         {
             "key": "NikeTV6",
@@ -3060,7 +3009,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/NikeTV.json"
+            "ext": "./json/NikeTV.json"
         },
         {
             "key": "APP影院6",
@@ -3071,7 +3020,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/APP影院.json"
+            "ext": "./json/APP影院.json"
         },
         {
             "key": "剧白白6",
@@ -3082,7 +3031,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/剧白白.json"
+            "ext": "./json/剧白白.json"
         },
         {
             "key": "52看剧6",
@@ -3093,7 +3042,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/52看剧.json"
+            "ext": "./json/52看剧.json"
         },
         {
             "key": "零度影视6",
@@ -3104,7 +3053,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/零度影视.json"
+            "ext": "./json/零度影视.json"
         },
         {
             "key": "csp_Nbys6",
@@ -3120,29 +3069,29 @@
             "key": "唐人街影院6",
             "name": "🛫唐人街┃海外6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/唐人街影视[飞].js"
+            "ext": "./js/唐人街影视[飞].js"
         },
         {
             "key": "吼吼6",
             "name": "🛫吼吼┃海外6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/吼吼[飞].js"
+            "ext": "./js/吼吼[飞].js"
         },
         {
             "key": "A8音乐6",
             "name": "🎵A8┃MV6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -3151,51 +3100,51 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/A8音乐.js"
+            "ext": "./js/A8音乐.js"
         },
         {
             "key": "DJ哟哟音乐网6",
             "name": "🎵DJ哟哟┃音乐6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/DJ音乐.js"
+            "ext": "./js/DJ音乐.js"
         },
         {
             "key": "Jango6",
             "name": "🎵Jango┃音乐6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/JangoIndex.js"
+            "ext": "./js/JangoIndex.js"
         },
         {
             "key": "MV2636",
             "name": "🎵MV263┃MV6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/MV263.js"
+            "ext": "./js/MV263.js"
         },
         {
             "key": "啦啦DJ音乐网6",
             "name": "🎵啦啦DJ┃音乐6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/啦啦DJ.js"
+            "ext": "./js/啦啦DJ.js"
         },
         {
             "key": "短视频6",
@@ -3206,7 +3155,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/短视频.json"
+            "ext": "./json/短视频.json"
         },
         {
             "key": "MV_vod6",
@@ -3227,7 +3176,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/酷奇MV.json"
+            "ext": "./json/酷奇MV.json"
         },
         {
             "key": "csp_BBB6",
@@ -3238,7 +3187,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩合集.json"
+            "ext": "./json/哔哩哔哩合集.json"
         },
         {
             "key": "csp_戏曲6",
@@ -3249,7 +3198,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩戏曲.json"
+            "ext": "./json/哔哩哔哩戏曲.json"
         },
         {
             "key": "演唱会6",
@@ -3260,18 +3209,18 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩音乐.json"
+            "ext": "./json/哔哩哔哩音乐.json"
         },
         {
             "key": "兔小贝6",
             "name": "📚儿童┃启蒙6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/兔小贝.js"
+            "ext": "./js/兔小贝.js"
         },
         {
             "key": "儿童6",
@@ -3282,7 +3231,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩少儿.json"
+            "ext": "./json/哔哩哔哩少儿.json"
         },
         {
             "key": "小学6",
@@ -3293,7 +3242,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩小学.json"
+            "ext": "./json/哔哩哔哩小学.json"
         },
         {
             "key": "初中6",
@@ -3304,7 +3253,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩初中.json"
+            "ext": "./json/哔哩哔哩初中.json"
         },
         {
             "key": "高中6",
@@ -3315,18 +3264,18 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩高中.json"
+            "ext": "./json/哔哩哔哩高中.json"
         },
         {
             "key": "JustLive6",
             "name": "Just┃直播6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/JustLive.js"
+            "ext": "./js/JustLive.js"
         },
         {
             "key": "网红直播6",
@@ -3342,12 +3291,12 @@
             "key": "js虎牙6",
             "name": "虎牙┃直播6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/虎牙直播.js"
+            "ext": "./js/虎牙直播.js"
         },
         {
             "key": "csp_XYQBiu_斗鱼6",
@@ -3358,7 +3307,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/斗鱼直播.json"
+            "ext": "./json/斗鱼直播.json"
         },
         {
             "key": "企鹅体育6",
@@ -3369,29 +3318,29 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/企鹅体育.json"
+            "ext": "./json/企鹅体育.json"
         },
         {
             "key": "310直播6",
             "name": "⚽310┃看球6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/310直播.js"
+            "ext": "./js/310直播.js"
         },
         {
             "key": "JRKAN直播6",
             "name": "⚽JRKAN┃看球6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/JRKAN直播.js"
+            "ext": "./js/JRKAN直播.js"
         },
         {
             "key": "七夜6",
