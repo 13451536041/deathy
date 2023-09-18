@@ -1079,6 +1079,7 @@
   
 
 
+
         {
             "key": "csp_SP3604",
             "name": "🍳┃360官源┃4",
@@ -1131,68 +1132,51 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "vip.lyyytv.cn",
+            "ext": "http://ytcms.lyyytv.cn/api.php/app/",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/探探.jar"
-        },
-        {
-            "key": "大鹏4",
-            "name": "🦅大鹏┃4K4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 1,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://s.ether-mine.com/api.php/app/"
         },
         {
             "key": "彩虹4",
             "name": "🌈彩虹4K4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
             "api": "csp_AppYsV2",
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
+            "categories": [
+                "连续剧",
+                "电影",
+                "动漫",
+                "综艺"
+            ]
         },
         {
-            "key": "超前4",
-            "name": "👑超前4K👑4",
+            "key": "mb4",
+            "name": "👑夜猫秒播👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/4K超前.js"
-        },
-        {
-            "key": "3654",
-            "name": "👑365秒播👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
+            "changeable": 1,
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
-            "key": "ymym4",
-            "name": "👑夜猫优米👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/夜猫优米.js"
-        },
-        {
-            "key": "ymzx4k4",
-            "name": "👑夜猫尊享4K👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
+            "key": "zyys4",
+            "name": "👑夜猫自营👑4",
+            "type": 1,
+            "api": "https://ys.md214.cn/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/夜猫尊享.js"
+            "filterable": 1,
+            "playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "categories": [
+                "电影",
+                "连续剧",
+                "动漫",
+                "综艺"
+            ]
         },
         {
             "key": "yc4",
@@ -1207,25 +1191,6 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/yc.jar"
         },
         {
-            "key": "影探4K24",
-            "name": "👑新夜猫子👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 1,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ytcms.lyyytv.cn/api.php/app/"
-        },
-        {
-            "key": "AppYs_ky4",
-            "name": "👑夜猫好酷👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/酷酷.js"
-        },
-        {
             "key": "csp_appysv2_迷你库4",
             "name": "👑夜猫迷你2k👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
@@ -1235,22 +1200,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
-        {
-            "key": "AppYs_yumi4",
-            "name": "👑夜猫至臻👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/新夜猫至臻.js"
-        },
-        {
-            "key": "ymzy2k4",
-            "name": "👑夜猫自营2k👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/夜猫自营2k.js"
         },
         {
             "key": "影院4",
@@ -1275,6 +1224,39 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/南瓜.js"
         },
         {
+            "key": "qiyue4",
+            "name": "👑七月蓝光👑4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/七月影视.json"
+        },
+        {
+            "key": "hanju4",
+            "name": "👑天天韩剧👑4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/天天韩剧.json"
+        },
+        {
+            "key": "看剧4",
+            "name": "👑看剧蓝光👑4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kankanju.cc/api.php/app/"
+        },
+        {
             "key": "狐狸影视4",
             "name": "👑狐狸影视2k👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
@@ -1287,14 +1269,6 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key": "AppYs_xylg24",
-            "name": "👑夜猫自营蓝光👑4",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
-            "playerType": 2,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/自营蓝光2.js"
-        },
-        {
             "key": "xymzftfx4",
             "name": "👑非同凡响👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
@@ -1303,12 +1277,32 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/非同凡响.js"
         },
         {
-            "key": "dr_jqr4",
+            "key": "csp_Ikanbot4",
             "name": "👑夜猫聚影👑4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "dr_jqr4",
+            "name": "👑夜猫聚影2👑4",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
             "playerType": 2,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ikanbot1.js"
+        },
+        {
+            "key": "csp_djtv4",
+            "name": "😻爱看短剧4",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy6.jar",
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/短剧.json"
         },
         {
             "key": "dr_czyzy4",
@@ -1714,7 +1708,7 @@
             "name": "🐝量子资源4",
             "type": 1,
             "playerType": 2,
-            "api": "http://cj.lzcaiji.com/api.php/provide/vod/",
+            "api": "http://cj.lzcaiji/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -2069,7 +2063,7 @@
 		
 
 
-        {
+{
             "key": "360影视6",
             "name": "360┃官源6",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
@@ -3384,7 +3378,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt>+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso6",
@@ -4297,6 +4291,7 @@
 	  
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"索尼资源","name":" 🍁索尼资源","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快帆资源","name":" 快帆资源","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极光资源","name":" 🍁极光资源","type":0,"api":"https://jiguang.la/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"华为吧","name":" 🍁华为吧","type":0,"api":"https://hw8.live/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
