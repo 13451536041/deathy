@@ -1709,7 +1709,7 @@
             "name": "🐝量子资源4",
             "type": 1,
             "playerType": 2,
-            "api": "http://cj.lzcaiji/api.php/provide/vod/",
+            "api": "http://cj.lzcaiji.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
