@@ -3189,225 +3189,225 @@
         },
 		
         {
-            "key": "次元城6",
-            "name": "次元城6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "次元城7",
+            "name": "次元城7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Cycdm",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/次元城.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/次元城.jar"
         },
         {
-            "key": "NyaFun6",
-            "name": "NyaFun6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NyaFun.js"
+            "key": "NyaFun7",
+            "name": "NyaFun7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/NyaFun.js"
         },
         {
-            "key": "AGE动漫6",
-            "name": "AGE动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/AGE动漫.js"
+            "key": "AGE动漫7",
+            "name": "AGE动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/AGE动漫.js"
         },
         {
-            "key": "csp_Dm84_36",
-            "name": "动漫巴士16",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "csp_Dm84_37",
+            "name": "动漫巴士17",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/Dm84.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/json/Dm84.json"
         },
         {
-            "key": "58动漫网6",
-            "name": "58┃动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "key": "58动漫网7",
+            "name": "58┃动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/58动漫.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/58动漫.js"
         },
         {
-            "key": "NT动漫6",
-            "name": "NT┃动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
+            "key": "NT动漫7",
+            "name": "NT┃动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NT动漫.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/NT动漫.js"
         },
         {
-            "key": "csp_Anime16",
-            "name": "动漫┃系列6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "csp_Anime17",
+            "name": "动漫┃系列7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "妮可动漫6",
-            "name": "妮可动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/妮可动漫.js"
+            "key": "妮可动漫7",
+            "name": "妮可动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/妮可动漫.js"
         },
         {
-            "key": "drpy_js_动漫岛6",
-            "name": "动漫岛6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/动漫岛.js"
+            "key": "drpy_js_动漫岛7",
+            "name": "动漫岛7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/动漫岛.js"
         },
         {
-            "key": "drpy_js_路漫漫6",
-            "name": "路漫漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/路漫漫.js"
+            "key": "drpy_js_路漫漫7",
+            "name": "路漫漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/路漫漫.js"
         },
         {
-            "key": "csp_Ysj6",
-            "name": "异界动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "csp_Ysj7",
+            "name": "异界动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_Anime16",
-            "name": "日漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "csp_Anime17",
+            "name": "日漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_Ying6",
-            "name": "樱花动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "csp_Ying7",
+            "name": "樱花动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Ying",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "动漫直链6",
-            "name": "动漫┃直链6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "动漫直链7",
+            "name": "动漫┃直链7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/动漫直链.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/json/动漫直链.json"
         },
         {
-            "key": "风车动漫6",
-            "name": "风车动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/风车动漫.js"
+            "key": "风车动漫7",
+            "name": "风车动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/风车动漫.js"
         },
         {
-            "key": "去看吧6",
-            "name": "去看吧6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/去看吧.js"
+            "key": "去看吧7",
+            "name": "去看吧7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/去看吧.js"
         },
         {
-            "key": "drpy_js_NyaFun6",
-            "name": "动漫 | NyaFun[js]6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NyaFun.js"
+            "key": "drpy_js_NyaFun7",
+            "name": "动漫 | NyaFun[js]7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/NyaFun.js"
         },
         {
-            "key": "drpy_js_爱弹幕6",
-            "name": "动漫 | 爱弹幕[js]6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/爱弹幕.js"
+            "key": "drpy_js_爱弹幕7",
+            "name": "动漫 | 爱弹幕[js]7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/爱弹幕.js"
         },
         {
-            "key": "nt动漫6",
-            "name": "拿铁动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ntdm.js"
+            "key": "nt动漫7",
+            "name": "拿铁动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/ntdm.js"
         },
         {
-            "key": "妮可6",
-            "name": "妮可动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/妮可动漫.js"
+            "key": "妮可7",
+            "name": "妮可动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/妮可动漫.js"
         },
         {
-            "key": "anfuns6",
-            "name": "ANF动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/anfuns.js"
+            "key": "anfuns7",
+            "name": "ANF动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/anfuns.js"
         },
         {
-            "key": "怡萱动漫6",
-            "name": "怡萱动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/怡萱.js"
+            "key": "怡萱动漫7",
+            "name": "怡萱动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/怡萱.js"
         },
         {
-            "key": "去看吧6",
-            "name": "去看动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "去看吧7",
+            "name": "去看动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/去看吧.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/json/去看吧.json"
         },
         {
-            "key": "drpy_js_奇米动漫6",
-            "name": "动漫 | 奇米动漫[js]6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/奇米动漫.js"
+            "key": "drpy_js_奇米动漫7",
+            "name": "动漫 | 奇米动漫[js]7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/奇米动漫.js"
         },
         {
-            "key": "drpy_js_曲奇动漫6",
-            "name": "动漫 | 曲奇动漫[js]6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/曲奇动漫.js"
+            "key": "drpy_js_曲奇动漫7",
+            "name": "动漫 | 曲奇动漫[js]7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/曲奇动漫.js"
         },
         {
-            "key": "异世界6",
-            "name": "异世界6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/drpy.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/异世界.js"
+            "key": "异世界7",
+            "name": "异世界7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/drpy.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/js/异世界.js"
         },
         {
-            "key": "维奇6",
-            "name": "维奇动漫6",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "key": "维奇7",
+            "name": "维奇动漫7",
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/维奇.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451537041/deathy4/master/json/维奇.json"
         },
 
  
