@@ -2064,6 +2064,7 @@
 
 
 
+
         {
             "key": "360影视6",
             "name": "360┃官源6",
@@ -2884,7 +2885,6 @@
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
-            "proxy": true,
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/玩偶.jar"
         },
         {
@@ -2894,7 +2894,6 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
-            "proxy": true,
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/玩偶.jar"
         },
         {
@@ -4287,6 +4286,7 @@
 	  
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"豪华资源","name":" 🍁豪华资源","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aiku资源","name":" aiku资源","type":0,"api":"https://api.iku.cool/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"索尼资源","name":" 🍁索尼资源","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快帆资源","name":" 快帆资源","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
@@ -4685,6 +4685,7 @@
 
 #18+
 {"key": "523资源", "name": "523资源", "type": 1,"api": "https://caiji.523zyw.com/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
+{"key":"极品伦理","name":" 🍁极品伦理","type":0,"api":"http://jpzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"真不卡资源6","name":" 真不卡资源","type":0,"api":"https://api.bukazyw.fun/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"红袖资源","name":" 红袖资源","type":0,"api":"https://hongxiuzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9色资源","name":" 9色资源","type":0,"api":"https://9szy.net/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
