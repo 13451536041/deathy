@@ -2061,12 +2061,6 @@
         },
 
 		
-
-
-
-
-
-
         {
             "key": "360影视6",
             "name": "360┃官源6",
@@ -3199,13 +3193,11 @@
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
 		
- 
-
-
-        {
+		
+		
             "key": "次元城7",
             "name": "次元城7",
-            "type": 3,
+            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Cycdm",
             "searchable": 1,
             "quickSearch": 1,
@@ -3334,7 +3326,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/风车动漫.js"
         },
         {
-            "key": "去看吧8",
+            "key": "去看吧7",
             "name": "去看吧7",
             "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
