@@ -3202,10 +3202,10 @@
         },
 		
 		
-		
+        {
             "key": "次元城7",
             "name": "次元城7",
-            "type": 3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "type": 3,
             "api": "csp_Cycdm",
             "searchable": 1,
             "quickSearch": 1,
