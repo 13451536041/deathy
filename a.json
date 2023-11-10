@@ -4061,7 +4061,7 @@
 {"key":"csp_biubiu_红领巾","name":"💦红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy1/master/MaooXB/红领巾.json"},
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"CK资源","name":" 🍁CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"CK2资源","name":" 🍁CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK1资源","name":" 🍁CK1资源","type":0,"api":"http://www.feifei67.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豪华资源","name":" 🍁豪华资源","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"loli采集","name":" 🍁loli资源","type":0,"api":"https://api.avjx04.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
