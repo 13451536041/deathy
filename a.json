@@ -1144,7 +1144,6 @@
  
 
 
-
         {
             "key": "360影视6",
             "name": "360┃官源6",
@@ -1175,7 +1174,7 @@
         {
             "key": "玩偶6",
             "name": "玩偶┃云盘6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
@@ -1239,7 +1238,7 @@
         {
             "key": "电影港6",
             "name": "🧲电影港6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "changeable": 1,
@@ -1961,7 +1960,7 @@
         {
             "key": "手机影院6",
             "name": "手机影院6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
@@ -1971,7 +1970,7 @@
         {
             "key": "csp_Nbys6",
             "name": "🛫泥巴┃海外6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
@@ -1980,7 +1979,7 @@
         {
             "key": "星星6",
             "name": "🛫星星┃海外6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
@@ -2247,7 +2246,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso6",
@@ -2276,6 +2275,10 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
+		
+		
+		
+		
 		
 		
         {
@@ -2459,7 +2462,7 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/怡萱.js"
         },
         {
-            "key": "去看吧7",
+            "key": "去看吧87",
             "name": "去看动漫7",
             "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
