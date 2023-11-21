@@ -3376,6 +3376,7 @@
 
 {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐视资源","name":" 🍁乐视资源","type":0,"api":"https://leshizyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"电影雷达","name":" 电影雷达","type":0,"api":"https://www.dianyingleida.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK2资源","name":" 🍁CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK1资源","name":" 🍁CK1资源","type":0,"api":"http://www.feifei67.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豪华资源","name":" 🍁豪华资源","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
