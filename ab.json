@@ -1156,7 +1156,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "影視天下第一",
+                "token": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
                 "filter": "https://tvbox.cainisi.cf/json/wogg.json"
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
@@ -1172,6 +1172,58 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
+            "key": "獨播6",
+            "name": "獨播6",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/duboku.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
+            "key": "haiwaikan6",
+            "name": "海外看6",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日本动漫",
+                "国产动漫",
+                "欧美动漫",
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "台剧",
+                "泰剧",
+                "港剧",
+                "欧美剧",
+                "动画电影",
+                "韩国综艺",
+                "国产综艺",
+                "日本综艺",
+                "欧美综艺",
+                "冒险片",
+                "剧情片",
+                "动作片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "战争片",
+                "歌舞片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "纪录片",
+                "经典片"
+            ]
+        },
+        {
             "key": "新6V6",
             "name": "新6V┃磁力6",
             "type": 3,
@@ -1181,31 +1233,56 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
+            "key": "🏀看球6",
+            "name": "看球6",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
+            "key": "暴風6",
+            "name": "暴風6",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "索尼6",
             "name": "索尼┃影视6",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+            "changeable": 1
+        },
+        {
+            "key": "快帆6",
+            "name": "快帆6",
+            "type": 1,
+            "api": "https://api.kuaifan.tv/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "量子6",
             "name": "量子┃影视6",
             "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+            "changeable": 1
         },
         {
             "key": "非凡6",
             "name": "非凡┃影视6",
             "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "api": "http://fftv4.tv/api.php/provide/vod",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+            "changeable": 1
         },
         {
             "key": "樱花6",
@@ -1254,7 +1331,7 @@
         },
         {
             "key": "酷狗6",
-            "name": "酷狗┃音乐6",
+            "name": "🎵酷狗┃音乐6",
             "type": 3,
             "api": "csp_Kugou",
             "searchable": 0,
@@ -1280,6 +1357,15 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
+            "key": "易搜6",
+            "name": "易搜┃云盘6",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
             "key": "云搜6",
             "name": "云搜┃云盘6",
             "type": 3,
@@ -1298,6 +1384,15 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
+            "key": "紙條搜6",
+            "name": "紙條┃云盘6",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
             "key": "盘搜索6",
             "name": "盘搜索┃云盘6",
             "type": 3,
@@ -1307,13 +1402,32 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
-            "key": "360影视6",
-            "name": "360┃解析6",
+            "key": "找資源6",
+            "name": "找資源6",
             "type": 3,
-            "api": "csp_SP360",
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$test2$$$test2",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
+            "key": "csp_Nbys6",
+            "name": "🛫泥巴┃海外6",
+            "type": 3,
+            "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/360影视.jar"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
+        },
+        {
+            "key": "星星6",
+            "name": "🛫星星┃海外6",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
         {
             "key": "厂长资源6",
@@ -1323,6 +1437,242 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/厂长资源.js"
+        },
+        {
+            "key": "南瓜6",
+            "name": "南瓜┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "橘子6",
+            "name": "橘子┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+        },
+        {
+            "key": "鲲娱七七6",
+            "name": "七七┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "嘿嘿6",
+            "name": "嘿嘿┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+        },
+        {
+            "key": "南坊6",
+            "name": "南坊┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+        },
+        {
+            "key": "一起看6",
+            "name": "一起看┃影视",
+            "api": "csp_YQKan6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "毛驴6",
+            "name": "毛驴┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "Auete影视6",
+            "name": "Auete┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/Auete.js"
+        },
+        {
+            "key": "迪迪6",
+            "name": "迪迪┃影视",
+            "api": "csp_AppYsV26",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "两个BT6",
+            "name": "两个BT┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/两个BT.js"
+        },
+        {
+            "key": "Lib6",
+            "name": "LIBVIO┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "低端影视6",
+            "name": "低端┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ddys.js"
+        },
+        {
+            "key": "csp_Nmys6",
+            "name": "农民┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/nmys.json"
+        },
+        {
+            "key": "新视觉影院6",
+            "name": "新视觉┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/新视觉影视.js"
+        },
+        {
+            "key": "COKEMV6",
+            "name": "COKEMV┃影视6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/cokemv.js"
+        },
+        {
+            "key": "360影视6",
+            "name": "360┃解析6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_SP360",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/360影视.jar"
+        },
+        {
+            "key": "csp_Anime16",
+            "name": "日本┃动漫6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Aid6",
+            "name": "🚑急救┃教学6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+        },
+        {
+            "key": "唐人街影院6",
+            "name": "🛫唐人街┃海外6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/唐人街影视[飞].js"
+        },
+        {
+            "key": "兔小贝6",
+            "name": "📚儿童┃启蒙6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/兔小贝.js"
+        },
+        {
+            "key": "儿童6",
+            "name": "📚少儿┃教育6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩少儿.json"
+        },
+        {
+            "key": "小学6",
+            "name": "📚小学┃课堂6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩小学.json"
+        },
+        {
+            "key": "初中6",
+            "name": "📚初中┃课堂6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩初中.json"
+        },
+        {
+            "key": "高中6",
+            "name": "📚高中┃课堂6",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩高中.json"
         },
         {
             "key": "快看影视6",
@@ -1341,122 +1691,6 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/磁力熊[磁].js"
-        },
-        {
-            "key": "电影港6",
-            "name": "电影港┃磁力6",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/电影港磁力.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/360影视.jar"
-        },
-        {
-            "key": "低端影视6",
-            "name": "低端┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ddys.js"
-        },
-        {
-            "key": "一起看6",
-            "name": "一起看┃影视",
-            "api": "csp_YQKan6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "鲲娱七七6",
-            "name": "七七┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/酷云77.js"
-        },
-        {
-            "key": "两个BT6",
-            "name": "两个BT┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/两个BT.js"
-        },
-        {
-            "key": "LIBVIO影视6",
-            "name": "LIBVIO┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/LIBVIO.js"
-        },
-        {
-            "key": "乐猪TV6",
-            "name": "乐猪┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/乐猪TV.json"
-        },
-        {
-            "key": "Auete影视6",
-            "name": "Auete┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/Auete.js"
-        },
-        {
-            "key": "csp_Anime16",
-            "name": "日本┃动漫6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "COKEMV6",
-            "name": "COKE┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/cokemv.js"
-        },
-        {
-            "key": "探探6",
-            "name": "探探┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_YTVIP",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
-        },
-        {
-            "key": "新视觉影院6",
-            "name": "新视觉┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/新视觉影视.js"
-        },
-        {
-            "key": "农民影视6",
-            "name": "农民┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/农民影视.js"
         },
         {
             "key": "VOFLIX6",
@@ -1522,15 +1756,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/9U电影.js"
         },
         {
-            "key": "AnFuns动漫6",
-            "name": "AnFuns┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/AnFuns.js"
-        },
-        {
             "key": "B站影视6",
             "name": "B站┃影视6",
             "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
@@ -1538,24 +1763,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/B站影视.js"
-        },
-        {
-            "key": "OK影院6",
-            "name": "OK┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/KOK影院.js"
-        },
-        {
-            "key": "NT动漫6",
-            "name": "NT┃动漫6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/NT动漫.js"
         },
         {
             "key": "纽约影院6",
@@ -1601,15 +1808,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/乐鱼影视.js"
-        },
-        {
-            "key": "人人影视6",
-            "name": "人人┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/人人影视.js"
         },
         {
             "key": "兄弟影视6",
@@ -1702,94 +1900,44 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/吼吼[飞].js"
         },
         {
-            "key": "素白白影视6",
-            "name": "素白白┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "key": "宿命影视6",
+            "name": "宿命┃影视6",
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/素白白影视.json"
-        },
-        {
-            "key": "看一看影视6",
-            "name": "看一看┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/看一看影视.json"
-        },
-        {
-            "key": "奇优影院6",
-            "name": "奇优┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/奇优影院.json"
-        },
-        {
-            "key": "冷曦影视6",
-            "name": "冷曦┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/冷曦影视.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/宿命影视.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/宿命影视.jar"
         },
         {
             "key": "NikeTV6",
             "name": "NikeTV┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/NikeTV.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/NikeTV.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/宿命影视.jar"
         },
         {
             "key": "APP影院6",
             "name": "APP┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/APP影院.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/APP影院.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/宿命影视.jar"
         },
         {
             "key": "52看剧6",
             "name": "52┃影视6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
+            "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/52看剧.json"
-        },
-        {
-            "key": "csp_Nbys6",
-            "name": "🛫泥巴┃海外6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
-        },
-        {
-            "key": "星星6",
-            "name": "🛫星星┃海外6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
-        },
-        {
-            "key": "唐人街影院6",
-            "name": "🛫唐人街┃海外6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/唐人街影视[飞].js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/52看剧.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/宿命影视.jar"
         },
         {
             "key": "A8音乐6",
@@ -1849,7 +1997,8 @@
             "api": "csp_XBPQ",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/酷奇MV.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/酷奇MV.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/宿命影视.jar"
         },
         {
             "key": "csp_BBB6",
@@ -1877,51 +2026,6 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩音乐.json"
-        },
-        {
-            "key": "兔小贝6",
-            "name": "📚儿童┃启蒙6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/兔小贝.js"
-        },
-        {
-            "key": "儿童6",
-            "name": "📚少儿┃教育6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩少儿.json"
-        },
-        {
-            "key": "小学6",
-            "name": "📚小学┃课堂6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩小学.json"
-        },
-        {
-            "key": "初中6",
-            "name": "📚初中┃课堂6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩初中.json"
-        },
-        {
-            "key": "高中6",
-            "name": "📚高中┃课堂6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/哔哩哔哩高中.json"
         },
         {
             "key": "JustLive6",
@@ -1981,42 +2085,16 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/310直播.js"
         },
         {
-            "key": "csp_search_Yisou6",
-            "name": "易搜┃云盘6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Zhaozy6",
-            "name": "找资源┃云盘6",
-            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanty$$$qqq111"
-        },
-        {
             "key": "push_agent6",
             "name": "推送┃链接6",
-            "type": 3,
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
         },
-        {
-            "key": "应用打赏6",
-            "name": "应用┃打赏6",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/market.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
-        },
+		
+		
 		
 		
 		
@@ -2152,7 +2230,7 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/风车动漫.js"
         },
         {
-            "key": "去看吧87",
+            "key": "去看吧7",
             "name": "去看吧7",
             "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
@@ -2178,6 +2256,68 @@
             "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ntdm.js"
+        },
+        {
+            "key": "妮可7",
+            "name": "妮可动漫7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/妮可动漫.js"
+        },
+        {
+            "key": "anfuns7",
+            "name": "ANF动漫7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/anfuns.js"
+        },
+        {
+            "key": "怡萱动漫7",
+            "name": "怡萱动漫7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/怡萱.js"
+        },
+        {
+            "key": "去看吧7",
+            "name": "去看动漫7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/去看吧.json"
+        },
+        {
+            "key": "drpy_js_奇米动漫7",
+            "name": "动漫 | 奇米动漫[js]7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/奇米动漫.js"
+        },
+        {
+            "key": "drpy_js_曲奇动漫7",
+            "name": "动漫 | 曲奇动漫[js]7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/曲奇动漫.js"
+        },
+        {
+            "key": "异世界7",
+            "name": "异世界7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/异世界.js"
+        },
+        {
+            "key": "维奇7",
+            "name": "维奇动漫7",
+            "type": 3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13451536041/deathy4/master/json/维奇.json"
         },
         {
             "key": "妮可7",
