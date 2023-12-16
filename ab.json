@@ -3665,6 +3665,7 @@
 
 #18+
 {"key": "523资源", "name": "523资源", "type": 1,"api": "https://caiji.523zyw.com/inc/api.php","playUrl": "","searchable":1,"quickSearch":1},
+{"key": "花都资源", "name": "花都资源", "type": 0,"api": "https://hdys2.com/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
 {"key":"极品伦理","name":" 🍁极品伦理","type":0,"api":"http://jpzy.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"真不卡","name":" 🍁真不卡7","type":0,"api":"https://www.bukazyw.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"6120211","name":" 🍁6120211","type":1,"api":"https://612021.xyz/api.php/provide/art/","searchable":1,"quickSearch":1,"filterable":1},
