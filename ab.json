@@ -1139,6 +1139,7 @@
 		
 
 
+
         {
             "key": "豆瓣6",
             "name": "豆瓣┃影视6",
@@ -1442,7 +1443,7 @@
         {
             "key": "厂长资源6",
             "name": "厂长┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1451,7 +1452,7 @@
         {
             "key": "南瓜6",
             "name": "南瓜┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_NanGua",
             "searchable": 1,
             "changeable": 1
@@ -1459,7 +1460,7 @@
         {
             "key": "橘子6",
             "name": "橘子┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_AppMao",
             "searchable": 1,
             "changeable": 1,
@@ -1468,7 +1469,7 @@
         {
             "key": "鲲娱七七6",
             "name": "七七┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Kunyu77",
             "searchable": 1,
             "changeable": 1
@@ -1476,7 +1477,7 @@
         {
             "key": "嘿嘿6",
             "name": "嘿嘿┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_AppMao",
             "searchable": 1,
             "changeable": 1,
@@ -1485,7 +1486,7 @@
         {
             "key": "南坊6",
             "name": "南坊┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_AppMao",
             "searchable": 1,
             "changeable": 1,
@@ -1495,14 +1496,14 @@
             "key": "一起看6",
             "name": "一起看┃影视",
             "api": "csp_YQKan6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "searchable": 1,
             "changeable": 1
         },
         {
             "key": "毛驴6",
             "name": "毛驴┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_MLYS",
             "searchable": 1,
             "changeable": 1,
@@ -1511,7 +1512,7 @@
         {
             "key": "Auete影视6",
             "name": "Auete┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1521,7 +1522,7 @@
             "key": "迪迪6",
             "name": "迪迪┃影视",
             "api": "csp_AppYsV26",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
@@ -1529,7 +1530,7 @@
         {
             "key": "两个BT6",
             "name": "两个BT┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1538,7 +1539,7 @@
         {
             "key": "Lib6",
             "name": "LIBVIO┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Libvio",
             "searchable": 1,
             "changeable": 1,
@@ -1547,7 +1548,7 @@
         {
             "key": "低端影视6",
             "name": "低端┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1556,7 +1557,7 @@
         {
             "key": "csp_Nmys6",
             "name": "农民┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Nmys",
             "searchable": 1,
             "changeable": 1,
@@ -1565,7 +1566,7 @@
         {
             "key": "新视觉影院6",
             "name": "新视觉┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1575,7 +1576,7 @@
         {
             "key": "COKEMV6",
             "name": "COKEMV┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1593,7 +1594,7 @@
         {
             "key": "csp_Anime16",
             "name": "日本┃动漫6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
@@ -1601,7 +1602,7 @@
         {
             "key": "Aid6",
             "name": "🚑急救┃教学6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_FirstAid",
             "searchable": 0,
             "changeable": 0,
@@ -1613,7 +1614,7 @@
         {
             "key": "唐人街影院6",
             "name": "🛫唐人街┃海外6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1622,7 +1623,7 @@
         {
             "key": "兔小贝6",
             "name": "📚儿童┃启蒙6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -1635,7 +1636,7 @@
         {
             "key": "儿童6",
             "name": "📚少儿┃教育6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -1648,7 +1649,7 @@
         {
             "key": "小学6",
             "name": "📚小学┃课堂6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -1661,7 +1662,7 @@
         {
             "key": "初中6",
             "name": "📚初中┃课堂6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -1674,7 +1675,7 @@
         {
             "key": "高中6",
             "name": "📚高中┃课堂6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -1687,7 +1688,7 @@
         {
             "key": "快看影视6",
             "name": "快看┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1696,7 +1697,7 @@
         {
             "key": "磁力熊6",
             "name": "熊┃磁力6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 0,
@@ -1705,7 +1706,7 @@
         {
             "key": "VOFLIX6",
             "name": "VOFLIX┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1714,7 +1715,7 @@
         {
             "key": "零零七影视6",
             "name": "零零七┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1723,7 +1724,7 @@
         {
             "key": "139影视6",
             "name": "139┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1732,7 +1733,7 @@
         {
             "key": "348电影网6",
             "name": "348┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1741,7 +1742,7 @@
         {
             "key": "4K电影网6",
             "name": "4K┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1750,7 +1751,7 @@
         {
             "key": "69美剧6",
             "name": "69┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1759,7 +1760,7 @@
         {
             "key": "9u电影6",
             "name": "9u┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1768,7 +1769,7 @@
         {
             "key": "B站影视6",
             "name": "B站┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1777,7 +1778,7 @@
         {
             "key": "纽约影院6",
             "name": "纽约┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1786,7 +1787,7 @@
         {
             "key": "TVB云播6",
             "name": "TVB┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1795,7 +1796,7 @@
         {
             "key": "101影院6",
             "name": "101┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1804,7 +1805,7 @@
         {
             "key": "万博剧院6",
             "name": "万博┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1813,7 +1814,7 @@
         {
             "key": "乐鱼影视6",
             "name": "乐鱼┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1822,7 +1823,7 @@
         {
             "key": "兄弟影视6",
             "name": "兄弟┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1831,7 +1832,7 @@
         {
             "key": "免费看影视6",
             "name": "免费看┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1840,7 +1841,7 @@
         {
             "key": "六度TV6",
             "name": "六度┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1849,7 +1850,7 @@
         {
             "key": "兰花影院6",
             "name": "兰花┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1858,7 +1859,7 @@
         {
             "key": "凌云影视6",
             "name": "凌云┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1867,7 +1868,7 @@
         {
             "key": "北川影视6",
             "name": "北川┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1876,7 +1877,7 @@
         {
             "key": "去看吧6",
             "name": "去看吧┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1885,7 +1886,7 @@
         {
             "key": "咕噜[V2]6",
             "name": "咕噜┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1894,7 +1895,7 @@
         {
             "key": "嘶哩嘶哩6",
             "name": "嘶哩┃动漫6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1903,7 +1904,7 @@
         {
             "key": "吼吼6",
             "name": "吼吼┃影视6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
@@ -1952,7 +1953,7 @@
         {
             "key": "A8音乐6",
             "name": "🎵A8┃MV6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "style": {
                 "type": "rect",
@@ -1965,7 +1966,7 @@
         {
             "key": "DJ哟哟音乐网6",
             "name": "🎵DJ哟哟┃音乐6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -1974,7 +1975,7 @@
         {
             "key": "Jango6",
             "name": "🎵Jango┃音乐6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -1983,7 +1984,7 @@
         {
             "key": "啦啦DJ音乐网6",
             "name": "🎵啦啦DJ┃音乐6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -2013,7 +2014,7 @@
         {
             "key": "csp_BBB6",
             "name": "🅱哔哩┃合集6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -2022,7 +2023,7 @@
         {
             "key": "csp_戏曲6",
             "name": "🅱哔哩┃戏曲6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -2031,7 +2032,7 @@
         {
             "key": "演唱会6",
             "name": "🅱哔哩┃音乐6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Bili",
             "searchable": 0,
             "changeable": 0,
@@ -2040,7 +2041,7 @@
         {
             "key": "JustLive6",
             "name": "Just┃直播6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -2049,7 +2050,7 @@
         {
             "key": "网红直播6",
             "name": "网红┃直播6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_Yj1211",
             "searchable": 0,
             "changeable": 0
@@ -2057,7 +2058,7 @@
         {
             "key": "虎牙直播6",
             "name": "虎牙┃直播6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -2066,7 +2067,7 @@
         {
             "key": "斗鱼直播6",
             "name": "斗鱼┃直播6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
@@ -2079,7 +2080,7 @@
         {
             "key": "企鹅体育6",
             "name": "企鹅┃体育6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "csp_XPath",
             "searchable": 0,
             "changeable": 0,
@@ -2088,36 +2089,27 @@
         {
             "key": "310直播6",
             "name": "⚽310┃看球6",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy7.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy7.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/310直播.js"
         },
-        {
-            "key": "push_agent6",
-            "name": "推送┃链接6",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/豆瓣.jar"
-        },
 		
 		
 		
-		
+ 
         {
             "key": "AGE动漫7",
             "name": "AGE动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/AGE动漫.js"
         },
         {
             "key": "csp_Dm84_37",
             "name": "动漫巴士17",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -2127,7 +2119,7 @@
         {
             "key": "58动漫网7",
             "name": "58┃动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -2138,7 +2130,7 @@
         {
             "key": "NT动漫7",
             "name": "NT┃动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -2149,7 +2141,7 @@
         {
             "key": "csp_Anime17",
             "name": "动漫┃系列7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
@@ -2158,14 +2150,14 @@
         {
             "key": "妮可动漫7",
             "name": "妮可动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/妮可动漫.js"
         },
         {
             "key": "csp_Ysj7",
             "name": "异界动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
@@ -2174,7 +2166,7 @@
         {
             "key": "csp_Anime17",
             "name": "日漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
@@ -2183,7 +2175,7 @@
         {
             "key": "动漫直链7",
             "name": "动漫┃直链7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
@@ -2193,42 +2185,42 @@
         {
             "key": "去看吧7",
             "name": "去看吧7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/去看吧.js"
         },
         {
             "key": "nt动漫7",
             "name": "拿铁动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/ntdm.js"
         },
         {
             "key": "妮可7",
             "name": "妮可动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/妮可动漫.js"
         },
         {
             "key": "anfuns7",
             "name": "ANF动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/anfuns.js"
         },
         {
             "key": "怡萱动漫7",
             "name": "怡萱动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/怡萱.js"
         },
         {
-            "key": "去看吧78",
+            "key": "去看吧7",
             "name": "去看动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -2238,39 +2230,28 @@
         {
             "key": "drpy_js_奇米动漫7",
             "name": "动漫 | 奇米动漫[js]7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/奇米动漫.js"
         },
         {
             "key": "drpy_js_曲奇动漫7",
             "name": "动漫 | 曲奇动漫[js]7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy2.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/曲奇动漫.js"
         },
         {
             "key": "异世界7",
             "name": "异世界7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/api/drpy.min.js",
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/js/异世界.js"
         },
         {
-            "key": "次元城7",
-            "name": "次元城7",
-            "type": 3,
-            "api": "csp_Cycdm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
-            "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/次元城.jar"
-        },
-        {
             "key": "维奇7",
             "name": "维奇动漫7",
-            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master//jars/deathy9.jar",
+            "type": 3,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy4/master/jars/deathy9.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -2281,25 +2262,25 @@
 
 	
 ## XPath系列
-{"key":"csp_xpath_wnvod2","name":"万能影视(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/wnvod.json"},
-{"key":"csp_xpath_dmw2","name":"动漫岛(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dmw.json"},
-{"key":"csp_xpath_ysjdm2","name":"异世界动漫(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/ysjdm.json"},
-{"key":"csp_xpath_age2","name":"AGE动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/agefans.json"},
-{"key":"csp_xpath_dm842","name":"动漫巴士(XP)2","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dm84.json"},
-{"key":"csp_xpath_yinghua2","name":"樱花动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/yinghua.json"},
-{"key":"csp_xpath_17skr2","name":"路漫漫动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/17skr.json"},
-{"key":"csp_xpath_dianyingn2","name":"电影牛(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dianyingn.json"},
+//{"key":"csp_xpath_wnvod2","name":"万能影视(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/wnvod.json"},
+//{"key":"csp_xpath_dmw2","name":"动漫岛(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dmw.json"},
+//{"key":"csp_xpath_ysjdm2","name":"异世界动漫(XPF)2","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/ysjdm.json"},
+//{"key":"csp_xpath_age2","name":"AGE动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/agefans.json"},
+//{"key":"csp_xpath_dm842","name":"动漫巴士(XP)2","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dm84.json"},
+//{"key":"csp_xpath_yinghua2","name":"樱花动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/yinghua.json"},
+//{"key":"csp_xpath_17skr2","name":"路漫漫动漫(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/17skr.json"},
+//{"key":"csp_xpath_dianyingn2","name":"电影牛(XP)2","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy/master/TVBox/MaooXP/dianyingn.json"},
 
-{"key": " py_bilibili_zy","name": " 🐦Bilibili自用1","type": 3,"api": "py_bilibili_zy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_bilibili_zy.py"},	  
-{"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "t4public", "name":" 🎑公共", "type": 4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1, "quickSearch": 1, "filterable": 0},
-{"key": "T4备用","name": " 🎑备用","type": 4,"api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},  
+//{"key": " py_bilibili_zy","name": " 🐦Bilibili自用1","type": 3,"api": "py_bilibili_zy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy1/master/Py/py_bilibili_zy.py"},	  
+//{"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "t4public", "name":" 🎑公共", "type": 4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1, "quickSearch": 1, "filterable": 0},
+//{"key": "T4备用","name": " 🎑备用","type": 4,"api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},  
 
-{"key":"csp_Nbys2","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🛫唐人街┃墙外","type": 3,"api":"csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
+//{"key":"csp_Nbys2","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_trj","name":"🛫唐人街┃墙外","type": 3,"api":"csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Zjdr","name":"👓追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	  
 
 
 {"key":"T4_douban9","name":"影视推荐(T4)3","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/13451536041/deathy2/master/JAR/Yoursmile.jar"},
